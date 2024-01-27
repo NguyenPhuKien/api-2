@@ -1,0 +1,176 @@
+module.exports.config = {
+  tên: "mv",
+  phiên bản: "1.0.0",
+  cóPermsion: 0,
+  tín dụng: "TPK",
+  description: "xem ảnh hiện có trên bot",
+  danh mục lệnh: "mv",
+  tập quán: "mv",
+  thời gian hồi chiêu: 2,
+  phụ thuộc: {
+    "yêu cầu":"",
+    "fs-thêm":"",
+    "axios":""
+  }
+}
+module.exports.onLoad = () => {
+    const fs = require("fs-thêm");
+    yêu cầu const = yêu cầu ("yêu cầu");
+    const dirMaterial = __dirname + `/noprefix/`;
+    if (!fs.existsSync(dirMaterial + "noprefix")) fs.mkdirSync(dirMaterial, { đệ quy: true });
+    nếu (!fs.existsSync(dirMaterial + "mv.gif")) yêu cầu("https://i.imgur.com/Fy8ZscG.gif").pipe(fs.createWriteStream(dirMaterial + "mv.gif")) ;
+}
+
+module.exports.run = async({api,event,args,client,Users,Chủ đề,__GLOBAL,Currencies,getText}) => {
+const fs = yêu cầu("fs");
+   const axios = yêu cầu ('axios');
+    yêu cầu const = yêu cầu ('yêu cầu');
+
+     if (args.length == 0) return api.sendMessage({body: `==== 𝗗𝗦 𝗩𝗜𝗗𝗘𝗢 ==== \n━━━━━━━━━━━━━━━━━━\n𝟏 . 𝗠𝘃 \ \ n𝟐. 𝘁𝗶𝗸𝘁𝗼𝗸 \ \ n𝟑. n𝟵. 𝗠𝘃 \ \ n𝗗𝘂̀𝗻𝗴! 𝗺𝘃 + 𝘁𝗲̂𝗻 (𝘃𝗶𝗱𝗲𝗼 𝗯𝗮̣𝗻 𝘅𝗲𝗺 \)
+`,tệp đính kèm: fs.createReadStream(__dirname + `/noprefix/mv.gif`)}, event.threadID, event.messageID);
+
+     if (args[0] == "gái") {
+  var money = (await Currencies.getData(event.senderID)).money
+  nếu (tiền >= 0) {
+  axios.get('https://Api-TaoTPk.trankhuong2022.repl.co/image/vdgai').then(res => {
+  var video = res.data.url;
+  gọi lại = function() {
+          api.sendMessage({
+            body: `💞 𝗩𝗶𝗱𝗲𝗼 𝗴𝗮́𝗶 𝘅𝗶𝗻𝗵 𝗻𝗲̀\n-100 đô💸`,
+            tệp đính kèm: fs.createReadStream(__dirname + `/cache/boobs.mp4`)
+          }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/boobs.mp4`), event.messageID);
+        };
+        request(video).pipe(fs.createWriteStream(__dirname + `/cache/boobs.mp4`)).on("đóng", gọi lại);
+        Currencies.setData(event.senderID, options = {money: money - 0})
+      })
+  } else return api.sendMessage("Bạn cần 1000 đô",event.threadID,event.messageID);
+  }
+  if (args[0] == "tiktok") {
+  var money = (await Currencies.getData(event.senderID)).money
+  nếu (tiền >= 0) {
+  axios.get('https://Api-TaoTPk.trankhuong2022.repl.co/image/vdgai').then(res => {
+  var video = res.data.url;
+  gọi lại = function() {
+          api.sendMessage({
+            body: `📱 𝗩𝗶𝗱𝗲𝗼 𝘁𝗶𝗸𝘁𝗼𝗸 𝗻𝗲̀\n -100 đô💸`,
+            tệp đính kèm: fs.createReadStream(__dirname + `/cache/boobs.mp4`)
+          }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/boobs.mp4`), event.messageID);
+        };
+        request(video).pipe(fs.createWriteStream(__dirname + `/cache/boobs.mp4`)).on("đóng", gọi lại);
+        Currencies.setData(event.senderID, options = {money: money - 0})
+      })
+  } else return api.sendMessage("Bạn cần 1000 đô",event.threadID,event.messageID);
+  }
+    if (args[0] == "sex") {
+  var money = (await Currencies.getData(event.senderID)).money
+  nếu (tiền >= 0) {
+  axios.get('https://Api-TaoTPk.trankhuong2022.repl.co/image/vdsex').then(res => {
+  var video = res.data.url;
+  gọi lại = function() {
+          api.sendMessage({
+            body: `🎊 𝗩𝗶𝗱𝗲𝗼 𝘀𝗲𝘅 𝗻𝗲̀\n -100 đô💸`,
+            tệp đính kèm: fs.createReadStream(__dirname + `/cache/boobs.mp4`)
+          }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/boobs.mp4`), event.messageID);
+        };
+        request(video).pipe(fs.createWriteStream(__dirname + `/cache/boobs.mp4`)).on("đóng", gọi lại);
+        Currencies.setData(event.senderID, options = {money: money - 0})
+      })
+  } else return api.sendMessage("Bạn cần 1000 đô",event.threadID,event.messageID);
+  }
+  if (args[0] == "trai") {
+  var money = (await Currencies.getData(event.senderID)).money
+  nếu (tiền >= 0) {
+  axios.get('https://Api-TaoTPk.trankhuong2022.repl.co/image/vdtrai').then(res => {
+  var video = res.data.url;
+  gọi lại = function() {
+          api.sendMessage({
+            body: `🌺 𝗩𝗶𝗱𝗲𝗼 𝗧𝗿𝗮𝗶 𝗻𝗲̀\n -100 đô💸`,
+            tệp đính kèm: fs.createReadStream(__dirname + `/cache/boobs.mp4`)
+          }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/boobs.mp4`), event.messageID);
+        };
+        request(video).pipe(fs.createWriteStream(__dirname + `/cache/boobs.mp4`)).on("đóng", gọi lại);
+        Currencies.setData(event.senderID, options = {money: money - 0})
+      })
+  } else return api.sendMessage("Bạn cần 1000 đô",event.threadID,event.messageID);
+  }
+  if (args[0] == "anime") {
+  var money = (await Currencies.getData(event.senderID)).money
+  nếu (tiền >= 0) {
+  axios.get('https://Api-TaoTPk.trankhuong2022.repl.co/image/vdanime').then(res => {
+  var video = res.data.url;
+  gọi lại = function() {
+          api.sendMessage({
+            body: `🌸 𝗩𝗶𝗱𝗲𝗼 𝗮𝗻𝗶𝗺𝗲 𝗻𝗲̀\n -100 đô💸`,
+            tệp đính kèm: fs.createReadStream(__dirname + `/cache/boobs.mp4`)
+          }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/boobs.mp4`), event.messageID);
+        };
+        request(video).pipe(fs.createWriteStream(__dirname + `/cache/boobs.mp4`)).on("đóng", gọi lại);
+        Currencies.setData(event.senderID, options = {money: money - 0})
+      })
+  } else return api.sendMessage("Bạn cần 1000 đô",event.threadID,event.messageID);
+  }
+  if (args[0] == "nuaodai") {
+  var money = (await Currencies.getData(event.senderID)).money
+  nếu (tiền >= 0) {
+  axios.get('https://Api-TaoTPk.trankhuong2022.repl.co/image/vdnuaodai').then(res => {
+  var video = res.data.url;
+  gọi lại = function() {
+          api.sendMessage({
+            body: `🌐 𝗩𝗶𝗱𝗲𝗼 𝗻𝘂̛̃ 𝗮́𝗼 𝗱𝗮̀𝗶 𝗻𝗲̀\n -100 đô💸`,
+            tệp đính kèm: fs.createReadStream(__dirname + `/cache/boobs.mp4`)
+          }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/boobs.mp4`), event.messageID);
+        };
+        request(video).pipe(fs.createWriteStream(__dirname + `/cache/boobs.mp4`)).on("đóng", gọi lại);
+        Currencies.setData(event.senderID, options = {money: money - 0})
+      })
+  } else return api.sendMessage("Bạn cần 1000 đô",event.threadID,event.messageID);
+  }
+  if (args[0] == "nhạc") {
+  var money = (await Currencies.getData(event.senderID)).money
+  nếu (tiền >= 0) {
+  axios.get('https://Api-TaoTPk.trankhuong2022.repl.co/image/vdmschil').then(res => {
+  var video = res.data.url;
+  gọi lại = function() {
+          api.sendMessage({
+            body: `🎼 𝗩𝗶𝗱𝗲𝗼 𝗺𝘂𝘀𝗶𝗰 𝗻𝗲̀\n -100 đô💸`,
+            tệp đính kèm: fs.createReadStream(__dirname + `/cache/boobs.mp4`)
+          }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/boobs.mp4`), event.messageID);
+        };
+        request(video).pipe(fs.createWriteStream(__dirname + `/cache/boobs.mp4`)).on("đóng", gọi lại);
+        Currencies.setData(event.senderID, options = {money: money - 0})
+      })
+  } else return api.sendMessage("Bạn cần 1000 đô",event.threadID,event.messageID);
+  }
+  if (args[0] == "bautroi") {
+  var money = (await Currencies.getData(event.senderID)).money
+  nếu (tiền >= 0) {
+  axios.get('https://Api-TaoTPk.trankhuong2022.repl.co/image/vdbautroi').then(res => {
+  var video = res.data.url;
+  gọi lại = function() {
+          api.sendMessage({
+            body: `🌄 𝗩𝗶𝗱𝗲𝗼 𝗯𝗮̂̀𝘂 𝘁𝗿𝗼̛̀𝗶 𝗻𝗲̀\n -100 đô💸`,
+            tệp đính kèm: fs.createReadStream(__dirname + `/cache/boobs.mp4`)
+          }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/boobs.mp4`), event.messageID);
+        };
+        request(video).pipe(fs.createWriteStream(__dirname + `/cache/boobs.mp4`)).on("đóng", gọi lại);
+        Currencies.setData(event.senderID, options = {money: money -0})
+      })
+  } else return api.sendMessage("Bạn cần 1000 đô",event.threadID,event.messageID);
+  }
+  if (args[0] == "doremon") {
+  var money = (await Currencies.getData(event.senderID)).money
+  nếu (tiền >= 0) {
+  axios.get('https://Api-TaoTPk.trankhuong2022.repl.co/image/vddoraemon').then(res => {
+  var video = res.data.url;
+  gọi lại = function() {
+          api.sendMessage({
+            body: `📺 𝗩𝗶𝗱𝗲𝗼 𝗱𝗼𝗿𝗮𝗲𝗺𝗼𝗻 𝗻𝗲̀\n -100 đô💸`,
+            tệp đính kèm: fs.createReadStream(__dirname + `/cache/boobs.mp4`)
+          }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/boobs.mp4`), event.messageID);
+        };
+        request(video).pipe(fs.createWriteStream(__dirname + `/cache/boobs.mp4`)).on("đóng", gọi lại);
+        Currencies.setData(event.senderID, options = {money: money - 0})
+      })
+  } else return api.sendMessage("Bạn cần 1000 đô",event.threadID,event.messageID);
+  }
+                                                                                                }

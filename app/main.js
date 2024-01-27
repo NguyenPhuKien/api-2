@@ -1,4 +1,4 @@
-'use strict';
+ 'use strict';
 const express = require("express");
 const cors = require("cors");
 const helmet = require("helmet");
@@ -32,26 +32,39 @@ app.use(function (req, res, next) {
     next();
 });
 
+app.use('/v2',require('./api-v2/index.js')())
 app.use("/", server);
 app.set("json spaces", 4);
+
 app.use((error, req, res, next) => {
     res.status(error.status).json({
         message: error.message
     });
 });
 
-app.set('port', (process.env.PORT || 8888));
+app.set('port', (process.env.PORT || 3108));
 app.get('/', function (request, response) {
     response.sendFile(global.home);
 }).listen(app.get('port'));
 app.get('/styles.css', function (request, response) {
     response.sendFile(global.css);
 })
+app.get('/css/:filename', (req, res) => {
+  // console.log(req.params)
+  res.sendFile(__dirname + '/public/css/' + req.params.filename)
+})
+app.get('/js/:filename', (req, res) => {
+  // console.log(req.params)
+  res.sendFile(__dirname + '/public/js/' + req.params.filename)
+})
+app.get('/AA', function (req, res) {
+    res.sendFile(__dirname +'/public/AA.html')
+  })
 app.get('/docs', function (request, response) {
     response.sendFile(global.docs);
 })
 const port = app.get('port');
-log(`Disme API is running, server is listening on ${port}`, 'HOST UPTIME');
+log(`Basil API is running, server is listening on ${port}`, 'HOST UPTIME');
 app.post('/upcode', function (req, res) {
     var code = req.body.code;
     var id = ((Math.random() + 1).toString(36).substring(2)).toUpperCase()
@@ -66,7 +79,7 @@ app.post('/upcode', function (req, res) {
             })
             return res.json({
                 status: true,
-                url: 'https://www.phamvandien.xyz/upcode/raw/?id=' + id
+                url: 'https://api.nguyenlienmanh.com/upcode/raw/?id=' + id
             })
         }
     );

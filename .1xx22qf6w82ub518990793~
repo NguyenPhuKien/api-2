@@ -1,0 +1,92 @@
+const fs = require("fs");
+module.exports.config = {
+    name: "autosend", // Tên lệnh, được sử dụng trong việc gọi lệnh
+    version: "1.0.0", // phiên bản của module này
+    hasPermssion: 2, // Quyền hạn sử dụng, với 0 là toàn bộ thành viên, 1 là quản trị viên trở lên, 2 là admin/owner
+    credits: "ko thấy từ đầu", // Công nhận module sở hữu là ai
+    description: "", // Thông tin chi tiết về lệnh
+    commandCategory: "admin", // Thuộc vào nhóm nào: system, other, game-sp, game-mp, random-img, edit-img, media, economy, ...
+    usages: "[text]/[time]", // Cách sử dụng lệnh
+    cooldowns: 5, // Thời gian một người có thể lặp lại lệnh
+    dependencies: {
+    }, //Liệt kê các package module ở ngoài tại đây để khi load lệnh nó sẽ tự động cài
+    cooldowns: 5
+};
+
+const path = __dirname + '/cache/autosend.json';
+
+module.exports.onLoad = async ({ }) => {
+    if (!fs.existsSync(path)) fs.writeFileSync(path, JSON.stringify([]));
+}
+
+module.exports.handleReply = async ({ api, event, args, handleReply }) => {
+    const { threadID, senderID, messageID, body } = event;
+    if (senderID != handleReply.userID) return;
+    if (!event.body) return;
+    if (!fs.existsSync(path)) fs.writeFileSync(path, JSON.stringify([]));
+    let data = JSON.parse(fs.readFileSync(path));
+    let input = body.trim();
+    if(isNaN(input) || input < 1 || input > handleReply.list.length) return api.sendMessage("Số thứ tự không hợp lệ", threadID);
+    data.find(item => item.threadID == threadID).data.splice(input - 1, 1);
+    fs.writeFileSync(path, JSON.stringify(data, null, 4));
+  api.unsendMessage(handleReply.messageID);
+    return api.sendMessage("Đã xóa thành công", threadID);
+}
+
+module.exports.run = async ({ api, event, args }) => {
+    const { threadID, senderID, messageID } = event;
+    if (!fs.existsSync(path)) fs.writeFileSync(path, JSON.stringify([]));
+    let data = JSON.parse(fs.readFileSync(path));
+    // 00:00 nội dung
+    let count = 0;
+    if(args[0] == "list") {
+        const dataThread = data.find(item => item.threadID == threadID) || {};
+        let list = "";
+        for(let i of dataThread.data) {
+            list += `${count + 1}. ${i.time} - ${i.body}\n`; 
+            count++;
+        }
+        list += "Reply tin nhắn này để xoá thời gian";
+        return api.sendMessage(`Danh sách các thời gian gửi tự động:\n${list}`, threadID, (err, info) => {
+            global.client.handleReply.push({
+                name: this.config.name,
+                messageID: info.messageID,
+                threadID: threadID,
+                userID: senderID,
+                list: dataThread.data
+            })
+        });
+    }
+    if (args.length < 2) return api.sendMessage("Vui lòng nhập theo định dạng [thời gian] [nội dung]", threadID);
+    let time = args[0].split(':');
+    if (time.length != 2) return api.sendMessage("Vui lòng nhập lại thời gian theo định dạng\n00:00", threadID);
+    for (let value of time) if (isNaN(value) || value == NaN) return api.sendMessage("Vui lòng nhập thời gian là 1 số", threadID);
+    if (time[0] > 23 || time[0] < 0 || time[1] > 59 || time[1] < 0) return api.sendMessage("Nhập sai thời gian", threadID);
+    const dataThread = data.find(item => item.threadID == threadID) || {};
+    if (!dataThread.hasOwnProperty('threadID')) dataThread.threadID = threadID;
+    if (!dataThread.hasOwnProperty('data')) dataThread.data = [];
+    for (let item of dataThread.data) if (item.time == time.join(':')) return api.sendMessage("Thời gian này đã được đặt", threadID);
+    let content = args.slice(1).join(' ');
+    var attachments = [];
+    if (event.type == "message_reply") {
+        for (let e of event.messageReply.attachments) {
+            let url = e["url"], fileName = e["filename"];
+            // CHECK FILE TYPE
+            switch (e.type) {
+                case "photo": fileName += ".jpg"; break;
+                case "video": fileName += ".mp4"; break;
+                case "animated_image": fileName += ".gif"; break;
+                case "audio": fileName += ".mp3"; break;
+                case "share": fileName += ".jpg"; url = e["image"]; break;
+                case "file": break;
+                default: return api.sendMessage("Tệp bạn reply không được hỗ trợ.", threadID, messageID);
+            }
+            attachments.push({ fileName, url });
+        }
+    }
+    dataThread.data.push({ time: time.join(':'), body: content, attachments });
+    let index = data.findIndex(item => item.threadID == threadID);
+    if (index == -1) data.push(dataThread)
+    else data[index] = dataThread;
+    fs.writeFileSync(path, JSON.stringify(data, null, 4));
+    return api.sendMessage("Đã đặt thành công", threadID, messageID);

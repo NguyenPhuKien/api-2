@@ -1,0 +1,68 @@
+/*const fs = require("fs");
+module.exports.config = {
+    name: "autoreact",
+    version: "1.0.0",
+    hasPermssion: 2,
+    credits: "",
+    description: "Auto reaction made by Minami Tatsuo",
+    commandCategory: "Nguyễn Liên Mạnh",
+    usages: "autoreact",
+    cooldowns: 0,
+};
+
+module.exports.handleEvent = function ({
+    api,
+    event,
+    client,
+    __GLOBAL
+}) {
+    let haha = event.body.toLowerCase();
+   /* if (this.config.credits != 'Minami Tatsuo') {
+        console.log('\x1b[33m[ WARN ]\x1b[37m » Credits has been changed! Stop Now!' + global.config.BOTNAME + ' đổi credits modules "' + this.config.name + '"');
+        return api.sendMessage('[ WARN ] STOP CHANGING CREDIT\g IDIOT ', event.threadID, event.messageID);
+    }
+    if (haha.includes("lol") || haha.includes("dm") || haha.includes("haha") || haha.includes("vãi") || haha.includes("ok") || haha.includes(":") || haha.includes("=") || haha.includes("kk") || haha.includes("lồn") || haha.includes("_") || haha.includes("+") || haha.includes(".")) {
+        const allIcon2 = ['😂','🤣','😆','😹','🤡']; //
+const icon2 = allIcon2[Math.floor(Math.random()*allIcon2.length)];
+        return api.setMessageReaction(icon2, event.messageID, (err) => {}, true)
+    }
+    if (haha.includes("sad") || haha.includes("mệt") || haha.includes("nó") || haha.includes("sad") || haha.includes("chia tay") || haha.includes("please") || haha.includes("😢") || haha.includes("huhu") || haha.includes("buồn") || haha.includes("chán")) {
+        const allIcon3 = ['😿','🤒','☹️','😐','😢']; //
+const icon3 = allIcon3[Math.floor(Math.random()*allIcon3.length)];
+        return api.setMessageReaction(icon3, event.messageID, (err) => {}, true)
+    }
+    if (haha.includes("wow") || haha.includes("wao") || haha.includes("whao") || haha.includes("xịn") || haha.includes("ye") || haha.includes("hehe") || haha.includes("tuyệt") || haha.includes("nice") || haha.includes("ghê") || haha.includes("đù") || haha.includes("omg")) {
+const allIcon = ['😦','😮','😯','😧','🤨']; //
+const icon = allIcon[Math.floor(Math.random()*allIcon.length)];
+        return api.setMessageReaction(icon, event.messageID, (err) => {}, true)
+    }
+   if (haha.includes("sủa") || haha.includes("ẳng") || haha.includes("súc vật") || haha.includes("đjt") || haha.includes("gáy") || haha.includes("im") || haha.includes("câm") || haha.includes("cút") || haha.includes("ngu") || haha.includes("cặc") || haha.includes("địt")) {
+        return api.setMessageReaction("😡", event.messageID, (err) => {}, true)
+    }
+    if (haha.includes("y") || haha.includes("Y")) {
+        return api.setMessageReaction("❣️", event.messageID, (err) => {}, true)
+    }
+    if (haha.includes("m") || haha.includes("t")) {
+        const allIcon4 = ['😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒','😒']; //
+const icon4 = allIcon4[Math.floor(Math.random()*allIcon4.length)];
+        return api.setMessageReaction(icon4, event.messageID, (err) => {}, true)
+    }
+    if (haha.includes(".") || haha.includes(" ")) {
+        return api.setMessageReaction("❤️", event.messageID, (err) => {}, true)
+    }
+    if (haha.includes("basil") || haha.includes("basil")) {
+        const allIcon = ['😇','❤️','😘']; //
+const icon = allIcon[Math.floor(Math.random()*allIcon.length)];
+        api.setMessageReaction(icon, event.messageID, (err) => {}, true)
+        api.sendMessage("Nguyễn Liên Mạnh bận lắm nên có gì cứ nhắn tin thẳng vào link này nha: m.me/basil2k4", event.threadID, event.messageID);
+    }
+    if (haha.includes("Phá") || haha.includes("phá")) {
+        api.sendMessage("😈", event.threadID, event.messageID)
+    }
+}
+module.exports.run = function ({
+    api,
+    event,
+    client,
+    __GLOBAL
+}) {}*/

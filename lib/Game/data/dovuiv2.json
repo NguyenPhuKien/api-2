@@ -1,0 +1,3026 @@
+[
+    {
+        
+        "questions": "Câu hỏi nào mà bạn phải trả lời “có”?",
+        "a": "Sếp hỏi bạn có muốn tăng lương không?",
+        "b": "Đánh vần từ Có",
+        "c": "Tối nay đi chơi không?",
+        "d": "Đi chơi không?",
+        "dapan": "Đánh vần từ Có"
+    },
+    {
+        
+        "questions": "Con gì còn đau khổ hơn hươu cao cổ bị viêm họng?",
+        "a": "Con chó bị viêm xoang",
+        "b": "Con hổ bị sâu răng",
+        "c": "Con người bị trĩ",
+        "d": "Con rết bị đau chân",
+        "dapan": "Con rết bị đau chân"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": "Cái gì có kích thước bằng con voi nhưng chẳng nặng gram nào cả?",
+        "a": "Mẹ con voi",
+        "b": "Bố con voi",
+        "c": "Bóng con voi",
+        "d": "Con voi",
+        "dapan": "Bóng con voi"
+    },
+    {
+        
+        "questions": "Cái gì có kích thước bằng con voi nhưng chẳng nặng gram nào cả?",
+        "a": "Mẹ con voi",
+        "b": "Bố con voi",
+        "c": "Bóng con voi",
+        "d": "Con voi",
+        "dapan": "Bóng con voi"
+    },
+    {
+        
+        "questions": "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+        "a": "Thẻ điện thoại",
+        "b": "Hộp quà",
+        "c": "Phong bì",
+        "d": "Quan tài",
+        "dapan": "Quan tài"
+    },
+    {
+        
+        "questions": "Trò gì càng chơi càng ra nước?",
+        "a": "Chơi tại bể bơi",
+        "b": "Chơi cờ",
+        "c": "Nghịch nước",
+        "d": "Chơi bài",
+        "dapan": "Chơi cờ"
+    },
+    {
+        
+        "questions": "Núi nào mà bị chặt ra từng khúc?",
+        "a": "Himalaya",
+        "b": "Hoàng Liên Sơn",
+        "c": "Ngũ hành sơn",
+        "d": "Thái Sơn",
+        "dapan": "Thái Sơn"
+    },
+    {
+        
+        "questions": "A gọi B bằng bác, B gọi C là ông nội, C kêu D là cậu, D kêu E là dì, E kêu F là chú, F gọi Z là con.Hỏi A gọi Z bằng gì ???",
+        "a": "Bằng bác",
+        "b": "Bằng chú",
+        "c": "Bằng cô",
+        "d": "Bằng miệng",
+        "dapan": "Bằng miệng"
+    },
+    {
+        
+        "questions": "Bệnh gì mà bác sỹ phải bó tay?",
+        "a": "Đau mắt đỏ",
+        "b": "Đau bụng",
+        "c": "Cúm",
+        "d": "Gãy tay",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Một con hổ bị xích vào gốc cây, sợi xích dài 30m. Có 1 bụi cỏ cách gốc cây 31m, đố bạn làm sao con hổ ăn được bụi cỏ?",
+        "a": "Con hổ không ăn cỏ.",
+        "b": "Bảo con khổ khác giúp 1 tay",
+        "c": "Cắn đứt xích",
+        "d": "Con hổ nhờ người ta",
+        "dapan": "Con hổ không ăn cỏ."
+    },
+    {
+        
+        "questions": "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày?",
+        "a": "4",
+        "b": "5",
+        "c": "12",
+        "d": "6",
+        "dapan": "12"
+    },
+    {
+        
+        "questions": "Bệnh gì bác sĩ bó tay?",
+        "a": "Bệnh ngu",
+        "b": "Gãy tay",
+        "c": "Bệnh dịch hạch",
+        "d": "Cái chết đen",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Đố bạn có bao nhiêu chữ C trong câu sau đây: “ Cơm, canh, cháo gì tớ cũng thích ăn!”",
+        "a": "4",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "Có 2 con mèo Vàng và con mèo Đen , con mèo Vàng bỏ con mèo Đen đi với con mèo Nâu, 13 năm sau con mèo Vàng về với con mèo Đen hỏi nó nói gì trước tiên",
+        "a": "Meo meo",
+        "b": "Mèo đen nó chết rồi",
+        "c": "Dạo này khỏe không",
+        "d": "Vẫn còn sống à",
+        "dapan": "Meo meo"
+    },
+    {
+        
+        "questions": "Tại sao sư tử ăn thịt sống?",
+        "a": "Ăn nhanh không ôi mất",
+        "b": "Mùi vị ngon",
+        "c": "Nhiều dinh dưỡng",
+        "d": "Ứ ! Biết nấu",
+        "dapan": "Ứ ! Biết nấu"
+    },
+    {
+        
+        "questions": "Hoa gì biết ăn, biết nói, biết hát …?",
+        "a": "Hoa hậu",
+        "b": "hoa loa kèn",
+        "c": "Hoa súng",
+        "d": "Hoa nhài",
+        "dapan": "Hoa hậu"
+    },
+    {
+        
+        "questions": "Tháng nào ngắn nhất trong năm?",
+        "a": "Tháng Năm",
+        "b": "Tháng 12",
+        "c": "Tháng Ba",
+        "d": "Tháng Sáu",
+        "dapan": "Tháng Ba"
+    },
+    {
+        
+        "questions": "Cái gì bằng cái vung, vùng xuống ao, đào chẳng thấy, lấy chẳng được",
+        "a": "Cây cầu",
+        "b": "Cái vung",
+        "c": "Cái thuyền",
+        "d": "Bóng mặt trăng",
+        "dapan": "Bóng mặt trăng"
+    },
+    {
+        
+        "questions": "Có 2 con mèo Vàng và con mèo Đen , con mèo Vàng bỏ con mèo Đen đi với con mèo Nâu, 13 năm sau con mèo Vàng về với con mèo Đen hỏi nó nói gì trước tiên",
+        "a": "Meo meo",
+        "b": "Mèo đen nó chết rồi",
+        "c": "Dạo này khỏe không",
+        "d": "Vẫn còn sống à",
+        "dapan": "Meo meo"
+    },
+    {
+        
+        "questions": "Tôi có cả một hàm răng nhưng không có cái miệng nào cả? Tôi là ai?",
+        "a": "Cái thang",
+        "b": "Cái dao",
+        "c": "Cái hang",
+        "d": "Cái cưa",
+        "dapan": "Cái cưa"
+    },
+    {
+        
+        "questions": "Cái gì bằng cái vung, vùng xuống ao, đào chẳng thấy, lấy chẳng được",
+        "a": "Cây cầu",
+        "b": "Cái vung",
+        "c": "Cái thuyền",
+        "d": "Bóng mặt trăng",
+        "dapan": "Bóng mặt trăng"
+    },
+    {
+        
+        "questions": "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
+        "a": "Cây mía",
+        "b": "Bắp ngô",
+        "c": "Xúc xích",
+        "d": "Củ khoai",
+        "dapan": "Bắp ngô"
+    },
+    {
+        
+        "questions": "Xe điện chạy với vận tốc 30km/h, gió thổi ngược lại với vận tốc 2m/s. Hỏi khói xe bay với vận tốc bao nhiêu?",
+        "a": "Xe điện không có khói",
+        "b": "25",
+        "c": "15",
+        "d": "10",
+        "dapan": "Xe điện không có khói"
+    },
+    {
+        
+        "questions": "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày?",
+        "a": "4",
+        "b": "5",
+        "c": "12",
+        "d": "6",
+        "dapan": "12"
+    },
+    {
+        
+        "questions": "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+        "a": "Thẻ điện thoại",
+        "b": "Hộp quà",
+        "c": "Phong bì",
+        "d": "Quan tài",
+        "dapan": "Quan tài"
+    },
+    {
+        
+        "questions": "Nhà Lan có 3 anh em, người anh đầu tên là Nhất Hào, người thứ hai tên là Nhị Hào. Hỏi người thứ 3 tên gì?",
+        "a": "Điệp",
+        "b": "Tam hào",
+        "c": "Tên là lan",
+        "d": "Phú Hào",
+        "dapan": "Tên là lan"
+    },
+    {
+        
+        "questions": "Đố bạn chuột nào đi bằng 2 chân?",
+        "a": "Chuột cống",
+        "b": "Chuột trù",
+        "c": "Mickey",
+        "d": "Chuột đồng",
+        "dapan": "Mickey"
+    },
+    {
+        
+        "questions": "Đố bạn chuột nào đi bằng 2 chân?",
+        "a": "Chuột cống",
+        "b": "Chuột trù",
+        "c": "Mickey",
+        "d": "Chuột đồng",
+        "dapan": "Mickey"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà không ai có thể trả lời “Vâng”?",
+        "a": "Mày thích chết không",
+        "b": "Mày thích gì?",
+        "c": "Mày cho tao vay 500k nhé!",
+        "d": "Mày chết rùi hả?",
+        "dapan": "Mày chết rùi hả?"
+    },
+    {
+        
+        "questions": "Ai có nhà di động đầu tiên?",
+        "a": "Nước anh",
+        "b": "Nước mỹ",
+        "c": "Rùa và ốc sên",
+        "d": "Nước pháp",
+        "dapan": "Rùa và ốc sên"
+    },
+    {
+        
+        "questions": "Đố bạn khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?",
+        "a": "Vào góc hiểm",
+        "b": "Vào bóng",
+        "c": "Vào lưới",
+        "d": "Vào bên trái",
+        "dapan": "Vào bóng"
+    },
+    {
+        
+        "questions": "Cái gì bạn không mượn mà trả?",
+        "a": "Lời cảm ơn",
+        "b": "Tiền",
+        "c": "Đồ ăn",
+        "d": "Áo khoác",
+        "dapan": "Lời cảm ơn"
+    },
+    {
+        
+        "questions": "Bệnh gì bác sĩ bó tay?",
+        "a": "Bệnh ngu",
+        "b": "Gãy tay",
+        "c": "Bệnh dịch hạch",
+        "d": "Cái chết đen",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Cái gì tay trái cầm được còn tay phải có muốn cầm cũng không được?",
+        "a": "Củi trỏ tay trái",
+        "b": "Củi trỏ tay phải",
+        "c": "Đầu gối chân trái",
+        "d": "Tóc",
+        "dapan": "Củi trỏ tay phải"
+    },
+    {
+        
+        "questions": "Bạn hãy tưởng tượng bạn đang đi trên 1 con thuyền trên 1 dòng sông có rất nhiều cá ăn thịt đến giữa dòng bỗng thuyền của bạn bị thủng 1 lỗ rất to, sau vài phút nữa thuyền sẽ chìm và chắc chắn bạn sẽ là bữa ăn những con cá này. Bạn làm cách nào đơn giản nhất để thoát ra khỏi cái hoàn cảnh chết tiệt này?",
+        "a": "Gọi 113",
+        "b": "Gọi bố đến",
+        "c": "Cố gắng bơi thật nhanh",
+        "d": "Thôi, ngừng tưởng tượng đi",
+        "dapan": "Thôi, ngừng tưởng tượng đi"
+    },
+    {
+        
+        "questions": "Bố mẹ có sáu người con trai, mỗi người con trai có một em gái. Hỏi gia đình đó có bao nhiêu người?",
+        "a": "9",
+        "b": "10",
+        "c": "15",
+        "d": "12",
+        "dapan": "9"
+    },
+    {
+        
+        "questions": "Bạn có thể kể ra ba ngày liên tiếp mà không có tên là thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật?",
+        "a": "Hôm qua, hôm nay , ngày mai",
+        "b": "Không kể được",
+        "c": "Thứ năm, thứ sáu, thứ 7",
+        "d": "Thứ 5, thứ 6, thứ 2",
+        "dapan": "Hôm qua, hôm nay , ngày mai"
+    },
+    {
+        
+        "questions": " Có bao nhiêu chữ C trong câu sau đây: 'Cơm, canh, cháo gì tớ cũng thích ăn!'",
+        "a": "3",
+        "b": "2",
+        "c": "4",
+        "d": "1",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "30 chia 1/2, và cộng thêm 10, bằng bao nhiêu?",
+        "a": "60",
+        "b": "30",
+        "c": "25",
+        "d": "70",
+        "dapan": "70"
+    },
+    {
+        
+        "questions": "Cái gì bằng cái vung, vùng xuống ao, đào chẳng thấy, lấy chẳng được",
+        "a": "Cây cầu",
+        "b": "Cái vung",
+        "c": "Cái thuyền",
+        "d": "Bóng mặt trăng",
+        "dapan": "Bóng mặt trăng"
+    },
+    {
+        
+        "questions": "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+        "a": "4",
+        "b": "1",
+        "c": "5",
+        "d": "2",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Cái gì tay trái cầm được còn tay phải có muốn cầm cũng không được?",
+        "a": "Củi trỏ tay trái",
+        "b": "Củi trỏ tay phải",
+        "c": "Đầu gối chân trái",
+        "d": "Tóc",
+        "dapan": "Củi trỏ tay phải"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": "Cái gì bằng cái vung, vùng xuống ao, đào chẳng thấy, lấy chẳng được",
+        "a": "Cây cầu",
+        "b": "Cái vung",
+        "c": "Cái thuyền",
+        "d": "Bóng mặt trăng",
+        "dapan": "Bóng mặt trăng"
+    },
+    {
+        
+        "questions": "Một phụ nữ đang mua đồ tại tiệm ngũ kim. Người bán hàng chào giá: “Giá của một là mười hai xu, giá của bốn mươi tư là hai mươi tư xu, và giá của một trăm mười bốn là ba mươi sáu xu.”! Cô ta muốn mua gì vậy ta?",
+        "a": "Mua bánh mỳ",
+        "b": "Mua sổ sổ",
+        "c": "Mua số điện thoại",
+        "d": "Mua số nhà",
+        "dapan": "Mua số nhà"
+    },
+    {
+        
+        "questions": "Con gì còn đau khổ hơn hươu cao cổ bị viêm họng?",
+        "a": "Con chó bị viêm xoang",
+        "b": "Con hổ bị sâu răng",
+        "c": "Con người bị trĩ",
+        "d": "Con rết bị đau chân",
+        "dapan": "Con rết bị đau chân"
+    },
+    {
+        
+        "questions": "Cái gì mà đi thì nằm, đứng cũng nằm, nhưng nằm lại đứng?",
+        "a": "Bàn chân",
+        "b": "Bàn tay",
+        "c": "Cái lưng",
+        "d": "Cái cổ",
+        "dapan": "Bàn chân"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà không ai có thể trả lời “Vâng”?",
+        "a": "Mày thích chết không",
+        "b": "Mày thích gì?",
+        "c": "Mày cho tao vay 500k nhé!",
+        "d": "Mày chết rùi hả?",
+        "dapan": "Mày chết rùi hả?"
+    },
+    {
+        
+        "questions": "Bệnh gì bác sĩ bó tay?",
+        "a": "Bệnh ngu",
+        "b": "Gãy tay",
+        "c": "Bệnh dịch hạch",
+        "d": "Cái chết đen",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Đố bạn có bao nhiêu chữ C trong câu sau đây: “ Cơm, canh, cháo gì tớ cũng thích ăn!”",
+        "a": "4",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "Nếu bạn nhìn thấy con chim đang đậu trên nhánh cây, làm sao để lấy nhánh cây mà không làm động con chim?",
+        "a": "Bắn chết con chim",
+        "b": "Lấy nhánh cây khác",
+        "c": "Đợi con chim bay đi",
+        "d": "Đuổi con chim đi",
+        "dapan": "Đợi con chim bay đi"
+    },
+    {
+        
+        "questions": "Đố bạn vịt nào đi bằng 2 chân?",
+        "a": "Vịt donald",
+        "b": "Vịt nào chẳng đi bằng hai chân",
+        "c": "Vịt trời",
+        "d": "Vịt cái",
+        "dapan": "Vịt nào chẳng đi bằng hai chân"
+    },
+    {
+        
+        "questions": "Có cổ nhưng không có miệng là gì?",
+        "a": "Cái áo",
+        "b": "Cái bút",
+        "c": "Cái quần",
+        "d": "Cái khẩu trang",
+        "dapan": "Cái áo"
+    },
+    {
+        
+        "questions": "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày?",
+        "a": "4",
+        "b": "5",
+        "c": "12",
+        "d": "6",
+        "dapan": "12"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": "Bạn có thể kể ra ba ngày liên tiếp mà không có tên là thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật?",
+        "a": "Hôm qua, hôm nay , ngày mai",
+        "b": "Không kể được",
+        "c": "Thứ năm, thứ sáu, thứ 7",
+        "d": "Thứ 5, thứ 6, thứ 2",
+        "dapan": "Hôm qua, hôm nay , ngày mai"
+    },
+    {
+        
+        "questions": "Một con hổ bị xích vào gốc cây, sợi xích dài 30m. Có 1 bụi cỏ cách gốc cây 31m, đố bạn làm sao con hổ ăn được bụi cỏ?",
+        "a": "Con hổ không ăn cỏ.",
+        "b": "Bảo con khổ khác giúp 1 tay",
+        "c": "Cắn đứt xích",
+        "d": "Con hổ nhờ người ta",
+        "dapan": "Con hổ không ăn cỏ."
+    },
+    {
+        
+        "questions": "Quần rộng nhất là quần gì?",
+        "a": "Quần soóc",
+        "b": "Quần đùi",
+        "c": "Quần đảo",
+        "d": "Quần thụng",
+        "dapan": "Quần đảo"
+    },
+    {
+        
+        "questions": "Nếu bạn nhìn thấy con chim đang đậu trên nhánh cây, làm sao để lấy nhánh cây mà không làm động con chim?",
+        "a": "Bắn chết con chim",
+        "b": "Lấy nhánh cây khác",
+        "c": "Đợi con chim bay đi",
+        "d": "Đuổi con chim đi",
+        "dapan": "Đợi con chim bay đi"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": " Cái gì tay phải cầm được còn tay trái cầm không được?",
+        "a": "Cái kéo",
+        "b": "Cái bút",
+        "c": "Đôi đũa",
+        "d": "Tay trái",
+        "dapan": "Tay trái"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": "Cái gì có kích thước bằng con voi nhưng chẳng nặng gram nào cả?",
+        "a": "Mẹ con voi",
+        "b": "Bố con voi",
+        "c": "Bóng con voi",
+        "d": "Con voi",
+        "dapan": "Bóng con voi"
+    },
+    {
+        
+        "questions": "Tại sao có những người đi taxi nhưng sao họ lại không trả tiền?",
+        "a": "Vì họ là tài xế",
+        "b": "Vì họ là người mù",
+        "c": "Người này là giám đốc",
+        "d": "Họ là con ông cháu cha",
+        "dapan": "Vì họ là tài xế"
+    },
+    {
+        
+        "questions": "Con đường dài nhất là đường nào?",
+        "a": "Đường Quốc lộ",
+        "b": "Đường đời",
+        "c": "Đường biên giới",
+        "d": "Đường Trường Sơn",
+        "dapan": "Đường đời"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
+        "a": "Cây mía",
+        "b": "Bắp ngô",
+        "c": "Xúc xích",
+        "d": "Củ khoai",
+        "dapan": "Bắp ngô"
+    },
+    {
+        
+        "questions": "Nhà Lan có 3 anh em, người anh đầu tên là Nhất Hào, người thứ hai tên là Nhị Hào. Hỏi người thứ 3 tên gì?",
+        "a": "Điệp",
+        "b": "Tam hào",
+        "c": "Tên là lan",
+        "d": "Phú Hào",
+        "dapan": "Tên là lan"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà không ai có thể trả lời “Vâng”?",
+        "a": "Mày thích chết không",
+        "b": "Mày thích gì?",
+        "c": "Mày cho tao vay 500k nhé!",
+        "d": "Mày chết rùi hả?",
+        "dapan": "Mày chết rùi hả?"
+    },
+    {
+        
+        "questions": "Bức tranh nàng Mônalisa, người đẹp này không có gì?",
+        "a": "Váy",
+        "b": "Tóc",
+        "c": "Chân mày",
+        "d": "Mắt",
+        "dapan": "Chân mày"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà bạn phải trả lời “có”?",
+        "a": "Sếp hỏi bạn có muốn tăng lương không?",
+        "b": "Đánh vần từ Có",
+        "c": "Tối nay đi chơi không?",
+        "d": "Đi chơi không?",
+        "dapan": "Đánh vần từ Có"
+    },
+    {
+        
+        "questions": "Cái gì tay trái cầm được còn tay phải có muốn cầm cũng không được?",
+        "a": "Củi trỏ tay trái",
+        "b": "Củi trỏ tay phải",
+        "c": "Đầu gối chân trái",
+        "d": "Tóc",
+        "dapan": "Củi trỏ tay phải"
+    },
+    {
+        
+        "questions": "Ai có nhà di động đầu tiên?",
+        "a": "Nước anh",
+        "b": "Nước mỹ",
+        "c": "Rùa và ốc sên",
+        "d": "Nước pháp",
+        "dapan": "Rùa và ốc sên"
+    },
+    {
+        
+        "questions": "Chúng ta là con..?",
+        "a": "Con bò",
+        "b": "Con người",
+        "c": "Con chó",
+        "d": "Con khỉ",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Đố bạn khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?",
+        "a": "Vào góc hiểm",
+        "b": "Vào bóng",
+        "c": "Vào lưới",
+        "d": "Vào bên trái",
+        "dapan": "Vào bóng"
+    },
+    {
+        
+        "questions": " Trong 1 cuộc thi chạy, nếu bạn vượt qua người thứ 2 bạn sẽ đứng thứ mấy?",
+        "a": "2",
+        "b": "1",
+        "c": "3",
+        "d": "4",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": " Cái gì tay phải cầm được còn tay trái cầm không được?",
+        "a": "Cái kéo",
+        "b": "Cái bút",
+        "c": "Đôi đũa",
+        "d": "Tay trái",
+        "dapan": "Tay trái"
+    },
+    {
+        
+        "questions": "Con số lớn nhất có duy nhất hai chữ số?",
+        "a": "9^9",
+        "b": "99",
+        "c": "10",
+        "d": "81",
+        "dapan": "9^9"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": "Đố bạn vịt nào đi bằng 2 chân?",
+        "a": "Vịt donald",
+        "b": "Vịt nào chẳng đi bằng hai chân",
+        "c": "Vịt trời",
+        "d": "Vịt cái",
+        "dapan": "Vịt nào chẳng đi bằng hai chân"
+    },
+    {
+        
+        "questions": " Trong 1 cuộc thi chạy, nếu bạn vượt qua người thứ 2 bạn sẽ đứng thứ mấy?",
+        "a": "2",
+        "b": "1",
+        "c": "3",
+        "d": "4",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Chúng ta là con..?",
+        "a": "Con bò",
+        "b": "Con người",
+        "c": "Con chó",
+        "d": "Con khỉ",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Hoa gì biết ăn, biết nói, biết hát …?",
+        "a": "Hoa hậu",
+        "b": "hoa loa kèn",
+        "c": "Hoa súng",
+        "d": "Hoa nhài",
+        "dapan": "Hoa hậu"
+    },
+    {
+        
+        "questions": "Có 2 con mèo Vàng và con mèo Đen , con mèo Vàng bỏ con mèo Đen đi với con mèo Nâu, 13 năm sau con mèo Vàng về với con mèo Đen hỏi nó nói gì trước tiên",
+        "a": "Meo meo",
+        "b": "Mèo đen nó chết rồi",
+        "c": "Dạo này khỏe không",
+        "d": "Vẫn còn sống à",
+        "dapan": "Meo meo"
+    },
+    {
+        
+        "questions": "Con đường dài nhất là đường nào?",
+        "a": "Đường Quốc lộ",
+        "b": "Đường đời",
+        "c": "Đường biên giới",
+        "d": "Đường Trường Sơn",
+        "dapan": "Đường đời"
+    },
+    {
+        
+        "questions": "Núi nào mà bị chặt ra từng khúc?",
+        "a": "Himalaya",
+        "b": "Hoàng Liên Sơn",
+        "c": "Ngũ hành sơn",
+        "d": "Thái Sơn",
+        "dapan": "Thái Sơn"
+    },
+    {
+        
+        "questions": "Có hai bình rộng miệng đựng đầy nước. Làm sao để cho tất cả nước vào trong một cái chậu mà vẫn biết nước nào của bình nào(không được cho cả bình hay bất kỳ dụng cụ đựng nước nào vào chậu) ?",
+        "a": "Thêm phẩm nhuộm",
+        "b": "Ngăn đôi cái chậu",
+        "c": "Cho đông thành đá",
+        "d": "Nhờ người giúp đỡ",
+        "dapan": "Cho đông thành đá"
+    },
+    {
+        
+        "questions": "Xe điện chạy với vận tốc 30km/h, gió thổi ngược lại với vận tốc 2m/s. Hỏi khói xe bay với vận tốc bao nhiêu?",
+        "a": "Xe điện không có khói",
+        "b": "25",
+        "c": "15",
+        "d": "10",
+        "dapan": "Xe điện không có khói"
+    },
+    {
+        
+        "questions": "Bệnh gì mà bác sỹ phải bó tay?",
+        "a": "Đau mắt đỏ",
+        "b": "Đau bụng",
+        "c": "Cúm",
+        "d": "Gãy tay",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Cái gì có kích thước bằng con voi nhưng chẳng nặng gram nào cả?",
+        "a": "Mẹ con voi",
+        "b": "Bố con voi",
+        "c": "Bóng con voi",
+        "d": "Con voi",
+        "dapan": "Bóng con voi"
+    },
+    {
+        
+        "questions": "Bố mẹ có sáu người con trai, mỗi người con trai có một em gái. Hỏi gia đình đó có bao nhiêu người?",
+        "a": "9",
+        "b": "10",
+        "c": "15",
+        "d": "12",
+        "dapan": "9"
+    },
+    {
+        
+        "questions": "Cái gì mà đi thì nằm, đứng cũng nằm, nhưng nằm lại đứng?",
+        "a": "Bàn chân",
+        "b": "Bàn tay",
+        "c": "Cái lưng",
+        "d": "Cái cổ",
+        "dapan": "Bàn chân"
+    },
+    {
+        
+        "questions": "Cái gì có kích thước bằng con voi nhưng chẳng nặng gram nào cả?",
+        "a": "Mẹ con voi",
+        "b": "Bố con voi",
+        "c": "Bóng con voi",
+        "d": "Con voi",
+        "dapan": "Bóng con voi"
+    },
+    {
+        
+        "questions": "Con số lớn nhất có duy nhất hai chữ số?",
+        "a": "9^9",
+        "b": "99",
+        "c": "10",
+        "d": "81",
+        "dapan": "9^9"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà không ai có thể trả lời “Vâng”?",
+        "a": "Mày thích chết không",
+        "b": "Mày thích gì?",
+        "c": "Mày cho tao vay 500k nhé!",
+        "d": "Mày chết rùi hả?",
+        "dapan": "Mày chết rùi hả?"
+    },
+    {
+        
+        "questions": "Bạn có thể kể ra ba ngày liên tiếp mà không có tên là thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật?",
+        "a": "Hôm qua, hôm nay , ngày mai",
+        "b": "Không kể được",
+        "c": "Thứ năm, thứ sáu, thứ 7",
+        "d": "Thứ 5, thứ 6, thứ 2",
+        "dapan": "Hôm qua, hôm nay , ngày mai"
+    },
+    {
+        
+        "questions": "Con gì còn đau khổ hơn hươu cao cổ bị viêm họng?",
+        "a": "Con chó bị viêm xoang",
+        "b": "Con hổ bị sâu răng",
+        "c": "Con người bị trĩ",
+        "d": "Con rết bị đau chân",
+        "dapan": "Con rết bị đau chân"
+    },
+    {
+        
+        "questions": "30 chia 1/2, và cộng thêm 10, bằng bao nhiêu?",
+        "a": "60",
+        "b": "30",
+        "c": "25",
+        "d": "70",
+        "dapan": "70"
+    },
+    {
+        
+        "questions": "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
+        "a": "Cây mía",
+        "b": "Bắp ngô",
+        "c": "Xúc xích",
+        "d": "Củ khoai",
+        "dapan": "Bắp ngô"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": "Cái gì tay trái cầm được còn tay phải có muốn cầm cũng không được?",
+        "a": "Củi trỏ tay trái",
+        "b": "Củi trỏ tay phải",
+        "c": "Đầu gối chân trái",
+        "d": "Tóc",
+        "dapan": "Củi trỏ tay phải"
+    },
+    {
+        
+        "questions": "Tại sao sư tử ăn thịt sống?",
+        "a": "Ăn nhanh không ôi mất",
+        "b": "Mùi vị ngon",
+        "c": "Nhiều dinh dưỡng",
+        "d": "Ứ ! Biết nấu",
+        "dapan": "Ứ ! Biết nấu"
+    },
+    {
+        
+        "questions": "Tôi có cả một hàm răng nhưng không có cái miệng nào cả? Tôi là ai?",
+        "a": "Cái thang",
+        "b": "Cái dao",
+        "c": "Cái hang",
+        "d": "Cái cưa",
+        "dapan": "Cái cưa"
+    },
+    {
+        
+        "questions": "Con gì còn đau khổ hơn hươu cao cổ bị viêm họng?",
+        "a": "Con chó bị viêm xoang",
+        "b": "Con hổ bị sâu răng",
+        "c": "Con người bị trĩ",
+        "d": "Con rết bị đau chân",
+        "dapan": "Con rết bị đau chân"
+    },
+    {
+        
+        "questions": " Trong 1 cuộc thi chạy, nếu bạn vượt qua người thứ 2 bạn sẽ đứng thứ mấy?",
+        "a": "2",
+        "b": "1",
+        "c": "3",
+        "d": "4",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà không ai có thể trả lời “Vâng”?",
+        "a": "Mày thích chết không",
+        "b": "Mày thích gì?",
+        "c": "Mày cho tao vay 500k nhé!",
+        "d": "Mày chết rùi hả?",
+        "dapan": "Mày chết rùi hả?"
+    },
+    {
+        
+        "questions": "Bệnh gì mà bác sỹ phải bó tay?",
+        "a": "Đau mắt đỏ",
+        "b": "Đau bụng",
+        "c": "Cúm",
+        "d": "Gãy tay",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Tại sao có những người đi taxi nhưng sao họ lại không trả tiền?",
+        "a": "Vì họ là tài xế",
+        "b": "Vì họ là người mù",
+        "c": "Người này là giám đốc",
+        "d": "Họ là con ông cháu cha",
+        "dapan": "Vì họ là tài xế"
+    },
+    {
+        
+        "questions": " Cái gì tay phải cầm được còn tay trái cầm không được?",
+        "a": "Cái kéo",
+        "b": "Cái bút",
+        "c": "Đôi đũa",
+        "d": "Tay trái",
+        "dapan": "Tay trái"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": "Có 2 con mèo Vàng và con mèo Đen , con mèo Vàng bỏ con mèo Đen đi với con mèo Nâu, 13 năm sau con mèo Vàng về với con mèo Đen hỏi nó nói gì trước tiên",
+        "a": "Meo meo",
+        "b": "Mèo đen nó chết rồi",
+        "c": "Dạo này khỏe không",
+        "d": "Vẫn còn sống à",
+        "dapan": "Meo meo"
+    },
+    {
+        
+        "questions": "Nếu bạn nhìn thấy con chim đang đậu trên nhánh cây, làm sao để lấy nhánh cây mà không làm động con chim?",
+        "a": "Bắn chết con chim",
+        "b": "Lấy nhánh cây khác",
+        "c": "Đợi con chim bay đi",
+        "d": "Đuổi con chim đi",
+        "dapan": "Đợi con chim bay đi"
+    },
+    {
+        
+        "questions": "Cái gì mà đi thì nằm, đứng cũng nằm, nhưng nằm lại đứng?",
+        "a": "Bàn chân",
+        "b": "Bàn tay",
+        "c": "Cái lưng",
+        "d": "Cái cổ",
+        "dapan": "Bàn chân"
+    },
+    {
+        
+        "questions": "1 cân bông và 1 cân sắt, cái nào nặng hơn?",
+        "a": "Cân bông nặng hơn",
+        "b": "Cân sắt nặng hơn",
+        "c": "Cả 2 bằng nhau",
+        "d": "Không biết",
+        "dapan": "Cả 2 bằng nhau"
+    },
+    {
+        
+        "questions": "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+        "a": "4",
+        "b": "1",
+        "c": "5",
+        "d": "2",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Cái gì có kích thước bằng con voi nhưng chẳng nặng gram nào cả?",
+        "a": "Mẹ con voi",
+        "b": "Bố con voi",
+        "c": "Bóng con voi",
+        "d": "Con voi",
+        "dapan": "Bóng con voi"
+    },
+    {
+        
+        "questions": "Có hai bình rộng miệng đựng đầy nước. Làm sao để cho tất cả nước vào trong một cái chậu mà vẫn biết nước nào của bình nào(không được cho cả bình hay bất kỳ dụng cụ đựng nước nào vào chậu) ?",
+        "a": "Thêm phẩm nhuộm",
+        "b": "Ngăn đôi cái chậu",
+        "c": "Cho đông thành đá",
+        "d": "Nhờ người giúp đỡ",
+        "dapan": "Cho đông thành đá"
+    },
+    {
+        
+        "questions": "Cái gì có kích thước bằng con voi nhưng chẳng nặng gram nào cả?",
+        "a": "Mẹ con voi",
+        "b": "Bố con voi",
+        "c": "Bóng con voi",
+        "d": "Con voi",
+        "dapan": "Bóng con voi"
+    },
+    {
+        
+        "questions": "1 cân bông và 1 cân sắt, cái nào nặng hơn?",
+        "a": "Cân bông nặng hơn",
+        "b": "Cân sắt nặng hơn",
+        "c": "Cả 2 bằng nhau",
+        "d": "Không biết",
+        "dapan": "Cả 2 bằng nhau"
+    },
+    {
+        
+        "questions": "Bố mẹ có sáu người con trai, mỗi người con trai có một em gái. Hỏi gia đình đó có bao nhiêu người?",
+        "a": "9",
+        "b": "10",
+        "c": "15",
+        "d": "12",
+        "dapan": "9"
+    },
+    {
+        
+        "questions": "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+        "a": "4",
+        "b": "1",
+        "c": "5",
+        "d": "2",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Trò gì càng chơi càng ra nước?",
+        "a": "Chơi tại bể bơi",
+        "b": "Chơi cờ",
+        "c": "Nghịch nước",
+        "d": "Chơi bài",
+        "dapan": "Chơi cờ"
+    },
+    {
+        
+        "questions": "Hoa gì biết ăn, biết nói, biết hát …?",
+        "a": "Hoa hậu",
+        "b": "hoa loa kèn",
+        "c": "Hoa súng",
+        "d": "Hoa nhài",
+        "dapan": "Hoa hậu"
+    },
+    {
+        
+        "questions": "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày?",
+        "a": "4",
+        "b": "5",
+        "c": "12",
+        "d": "6",
+        "dapan": "12"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà bạn phải trả lời “có”?",
+        "a": "Sếp hỏi bạn có muốn tăng lương không?",
+        "b": "Đánh vần từ Có",
+        "c": "Tối nay đi chơi không?",
+        "d": "Đi chơi không?",
+        "dapan": "Đánh vần từ Có"
+    },
+    {
+        
+        "questions": "Cái gì bằng cái vung, vùng xuống ao, đào chẳng thấy, lấy chẳng được",
+        "a": "Cây cầu",
+        "b": "Cái vung",
+        "c": "Cái thuyền",
+        "d": "Bóng mặt trăng",
+        "dapan": "Bóng mặt trăng"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà bạn phải trả lời “có”?",
+        "a": "Sếp hỏi bạn có muốn tăng lương không?",
+        "b": "Đánh vần từ Có",
+        "c": "Tối nay đi chơi không?",
+        "d": "Đi chơi không?",
+        "dapan": "Đánh vần từ Có"
+    },
+    {
+        
+        "questions": "Nếu bạn nhìn thấy con chim đang đậu trên nhánh cây, làm sao để lấy nhánh cây mà không làm động con chim?",
+        "a": "Bắn chết con chim",
+        "b": "Lấy nhánh cây khác",
+        "c": "Đợi con chim bay đi",
+        "d": "Đuổi con chim đi",
+        "dapan": "Đợi con chim bay đi"
+    },
+    {
+        
+        "questions": "Cái gì mà đi thì nằm, đứng cũng nằm, nhưng nằm lại đứng?",
+        "a": "Bàn chân",
+        "b": "Bàn tay",
+        "c": "Cái lưng",
+        "d": "Cái cổ",
+        "dapan": "Bàn chân"
+    },
+    {
+        
+        "questions": "Đố bạn có bao nhiêu chữ C trong câu sau đây: “ Cơm, canh, cháo gì tớ cũng thích ăn!”",
+        "a": "4",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "Đố bạn vịt nào đi bằng 2 chân?",
+        "a": "Vịt donald",
+        "b": "Vịt nào chẳng đi bằng hai chân",
+        "c": "Vịt trời",
+        "d": "Vịt cái",
+        "dapan": "Vịt nào chẳng đi bằng hai chân"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": " Có bao nhiêu chữ C trong câu sau đây: 'Cơm, canh, cháo gì tớ cũng thích ăn!'",
+        "a": "3",
+        "b": "2",
+        "c": "4",
+        "d": "1",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+        "a": "4",
+        "b": "1",
+        "c": "5",
+        "d": "2",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Cái gì bằng cái vung, vùng xuống ao, đào chẳng thấy, lấy chẳng được",
+        "a": "Cây cầu",
+        "b": "Cái vung",
+        "c": "Cái thuyền",
+        "d": "Bóng mặt trăng",
+        "dapan": "Bóng mặt trăng"
+    },
+    {
+        
+        "questions": "Nếu bạn nhìn thấy con chim đang đậu trên nhánh cây, làm sao để lấy nhánh cây mà không làm động con chim?",
+        "a": "Bắn chết con chim",
+        "b": "Lấy nhánh cây khác",
+        "c": "Đợi con chim bay đi",
+        "d": "Đuổi con chim đi",
+        "dapan": "Đợi con chim bay đi"
+    },
+    {
+        
+        "questions": "Đố bạn vịt nào đi bằng 2 chân?",
+        "a": "Vịt donald",
+        "b": "Vịt nào chẳng đi bằng hai chân",
+        "c": "Vịt trời",
+        "d": "Vịt cái",
+        "dapan": "Vịt nào chẳng đi bằng hai chân"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": " Trong 1 cuộc thi chạy, nếu bạn vượt qua người thứ 2 bạn sẽ đứng thứ mấy?",
+        "a": "2",
+        "b": "1",
+        "c": "3",
+        "d": "4",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Có hai bình rộng miệng đựng đầy nước. Làm sao để cho tất cả nước vào trong một cái chậu mà vẫn biết nước nào của bình nào(không được cho cả bình hay bất kỳ dụng cụ đựng nước nào vào chậu) ?",
+        "a": "Thêm phẩm nhuộm",
+        "b": "Ngăn đôi cái chậu",
+        "c": "Cho đông thành đá",
+        "d": "Nhờ người giúp đỡ",
+        "dapan": "Cho đông thành đá"
+    },
+    {
+        
+        "questions": "Quần rộng nhất là quần gì?",
+        "a": "Quần soóc",
+        "b": "Quần đùi",
+        "c": "Quần đảo",
+        "d": "Quần thụng",
+        "dapan": "Quần đảo"
+    },
+    {
+        
+        "questions": "trong các loại con, con chó, con lợn, con mèo,... Thì chúng ta là con gì?",
+        "a": "Con người",
+        "b": "Con heo",
+        "c": "Con chó",
+        "d": "Con mèo",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Tôi có cả một hàm răng nhưng không có cái miệng nào cả? Tôi là ai?",
+        "a": "Cái thang",
+        "b": "Cái dao",
+        "c": "Cái hang",
+        "d": "Cái cưa",
+        "dapan": "Cái cưa"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": "Bố mẹ có sáu người con trai, mỗi người con trai có một em gái. Hỏi gia đình đó có bao nhiêu người?",
+        "a": "9",
+        "b": "10",
+        "c": "15",
+        "d": "12",
+        "dapan": "9"
+    },
+    {
+        
+        "questions": "Tại sao sư tử ăn thịt sống?",
+        "a": "Ăn nhanh không ôi mất",
+        "b": "Mùi vị ngon",
+        "c": "Nhiều dinh dưỡng",
+        "d": "Ứ ! Biết nấu",
+        "dapan": "Ứ ! Biết nấu"
+    },
+    {
+        
+        "questions": "Con gì đập thì sống, không đập thì chết",
+        "a": "Con tim",
+        "b": "Con đập",
+        "c": "Con ếch",
+        "d": "Con sông",
+        "dapan": "Con tim"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": "Cái gì bạn không mượn mà trả?",
+        "a": "Lời cảm ơn",
+        "b": "Tiền",
+        "c": "Đồ ăn",
+        "d": "Áo khoác",
+        "dapan": "Lời cảm ơn"
+    },
+    {
+        
+        "questions": "Chúng ta là con..?",
+        "a": "Con bò",
+        "b": "Con người",
+        "c": "Con chó",
+        "d": "Con khỉ",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+        "a": "4",
+        "b": "1",
+        "c": "5",
+        "d": "2",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": "Trò gì càng chơi càng ra nước?",
+        "a": "Chơi tại bể bơi",
+        "b": "Chơi cờ",
+        "c": "Nghịch nước",
+        "d": "Chơi bài",
+        "dapan": "Chơi cờ"
+    },
+    {
+        
+        "questions": " Sở thú bị cháy, con gì chạy ra đầu tiên?",
+        "a": "Con voi",
+        "b": "Con hổ",
+        "c": "Con khỉ",
+        "d": "Con người",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Đố bạn khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?",
+        "a": "Vào góc hiểm",
+        "b": "Vào bóng",
+        "c": "Vào lưới",
+        "d": "Vào bên trái",
+        "dapan": "Vào bóng"
+    },
+    {
+        
+        "questions": " Cái gì tay phải cầm được còn tay trái cầm không được?",
+        "a": "Cái kéo",
+        "b": "Cái bút",
+        "c": "Đôi đũa",
+        "d": "Tay trái",
+        "dapan": "Tay trái"
+    },
+    {
+        
+        "questions": " Sở thú bị cháy, con gì chạy ra đầu tiên?",
+        "a": "Con voi",
+        "b": "Con hổ",
+        "c": "Con khỉ",
+        "d": "Con người",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
+        "a": "Cây mía",
+        "b": "Bắp ngô",
+        "c": "Xúc xích",
+        "d": "Củ khoai",
+        "dapan": "Bắp ngô"
+    },
+    {
+        
+        "questions": "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+        "a": "4",
+        "b": "1",
+        "c": "5",
+        "d": "2",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Tại sao sư tử ăn thịt sống?",
+        "a": "Ăn nhanh không ôi mất",
+        "b": "Mùi vị ngon",
+        "c": "Nhiều dinh dưỡng",
+        "d": "Ứ ! Biết nấu",
+        "dapan": "Ứ ! Biết nấu"
+    },
+    {
+        
+        "questions": " Có bao nhiêu chữ C trong câu sau đây: 'Cơm, canh, cháo gì tớ cũng thích ăn!'",
+        "a": "3",
+        "b": "2",
+        "c": "4",
+        "d": "1",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "Núi nào mà bị chặt ra từng khúc?",
+        "a": "Himalaya",
+        "b": "Hoàng Liên Sơn",
+        "c": "Ngũ hành sơn",
+        "d": "Thái Sơn",
+        "dapan": "Thái Sơn"
+    },
+    {
+        
+        "questions": "Cái gì bằng cái vung, vùng xuống ao, đào chẳng thấy, lấy chẳng được",
+        "a": "Cây cầu",
+        "b": "Cái vung",
+        "c": "Cái thuyền",
+        "d": "Bóng mặt trăng",
+        "dapan": "Bóng mặt trăng"
+    },
+    {
+        
+        "questions": "Tháng nào ngắn nhất trong năm?",
+        "a": "Tháng Năm",
+        "b": "Tháng 12",
+        "c": "Tháng Ba",
+        "d": "Tháng Sáu",
+        "dapan": "Tháng Ba"
+    },
+    {
+        
+        "questions": "Bệnh gì bác sĩ bó tay?",
+        "a": "Bệnh ngu",
+        "b": "Gãy tay",
+        "c": "Bệnh dịch hạch",
+        "d": "Cái chết đen",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Bệnh gì bác sĩ bó tay?",
+        "a": "Bệnh ngu",
+        "b": "Gãy tay",
+        "c": "Bệnh dịch hạch",
+        "d": "Cái chết đen",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
+        "a": "Cây mía",
+        "b": "Bắp ngô",
+        "c": "Xúc xích",
+        "d": "Củ khoai",
+        "dapan": "Bắp ngô"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": " Trong 1 cuộc thi chạy, nếu bạn vượt qua người thứ 2 bạn sẽ đứng thứ mấy?",
+        "a": "2",
+        "b": "1",
+        "c": "3",
+        "d": "4",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": " Sở thú bị cháy, con gì chạy ra đầu tiên?",
+        "a": "Con voi",
+        "b": "Con hổ",
+        "c": "Con khỉ",
+        "d": "Con người",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Đố bạn có bao nhiêu chữ C trong câu sau đây: “ Cơm, canh, cháo gì tớ cũng thích ăn!”",
+        "a": "4",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "Tại sao sư tử ăn thịt sống?",
+        "a": "Ăn nhanh không ôi mất",
+        "b": "Mùi vị ngon",
+        "c": "Nhiều dinh dưỡng",
+        "d": "Ứ ! Biết nấu",
+        "dapan": "Ứ ! Biết nấu"
+    },
+    {
+        
+        "questions": " Sở thú bị cháy, con gì chạy ra đầu tiên?",
+        "a": "Con voi",
+        "b": "Con hổ",
+        "c": "Con khỉ",
+        "d": "Con người",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Trò gì càng chơi càng ra nước?",
+        "a": "Chơi tại bể bơi",
+        "b": "Chơi cờ",
+        "c": "Nghịch nước",
+        "d": "Chơi bài",
+        "dapan": "Chơi cờ"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà bạn phải trả lời “có”?",
+        "a": "Sếp hỏi bạn có muốn tăng lương không?",
+        "b": "Đánh vần từ Có",
+        "c": "Tối nay đi chơi không?",
+        "d": "Đi chơi không?",
+        "dapan": "Đánh vần từ Có"
+    },
+    {
+        
+        "questions": "Quần rộng nhất là quần gì?",
+        "a": "Quần soóc",
+        "b": "Quần đùi",
+        "c": "Quần đảo",
+        "d": "Quần thụng",
+        "dapan": "Quần đảo"
+    },
+    {
+        
+        "questions": "Bệnh gì bác sĩ bó tay?",
+        "a": "Bệnh ngu",
+        "b": "Gãy tay",
+        "c": "Bệnh dịch hạch",
+        "d": "Cái chết đen",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "A gọi B bằng bác, B gọi C là ông nội, C kêu D là cậu, D kêu E là dì, E kêu F là chú, F gọi Z là con.Hỏi A gọi Z bằng gì ???",
+        "a": "Bằng bác",
+        "b": "Bằng chú",
+        "c": "Bằng cô",
+        "d": "Bằng miệng",
+        "dapan": "Bằng miệng"
+    },
+    {
+        
+        "questions": "Bệnh gì mà bác sỹ phải bó tay?",
+        "a": "Đau mắt đỏ",
+        "b": "Đau bụng",
+        "c": "Cúm",
+        "d": "Gãy tay",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+        "a": "Thẻ điện thoại",
+        "b": "Hộp quà",
+        "c": "Phong bì",
+        "d": "Quan tài",
+        "dapan": "Quan tài"
+    },
+    {
+        
+        "questions": "Bạn có thể kể ra ba ngày liên tiếp mà không có tên là thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật?",
+        "a": "Hôm qua, hôm nay , ngày mai",
+        "b": "Không kể được",
+        "c": "Thứ năm, thứ sáu, thứ 7",
+        "d": "Thứ 5, thứ 6, thứ 2",
+        "dapan": "Hôm qua, hôm nay , ngày mai"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà không ai có thể trả lời “Vâng”?",
+        "a": "Mày thích chết không",
+        "b": "Mày thích gì?",
+        "c": "Mày cho tao vay 500k nhé!",
+        "d": "Mày chết rùi hả?",
+        "dapan": "Mày chết rùi hả?"
+    },
+    {
+        
+        "questions": "Con gì còn đau khổ hơn hươu cao cổ bị viêm họng?",
+        "a": "Con chó bị viêm xoang",
+        "b": "Con hổ bị sâu răng",
+        "c": "Con người bị trĩ",
+        "d": "Con rết bị đau chân",
+        "dapan": "Con rết bị đau chân"
+    },
+    {
+        
+        "questions": " Cái gì tay phải cầm được còn tay trái cầm không được?",
+        "a": "Cái kéo",
+        "b": "Cái bút",
+        "c": "Đôi đũa",
+        "d": "Tay trái",
+        "dapan": "Tay trái"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": "Nhà Lan có 3 anh em, người anh đầu tên là Nhất Hào, người thứ hai tên là Nhị Hào. Hỏi người thứ 3 tên gì?",
+        "a": "Điệp",
+        "b": "Tam hào",
+        "c": "Tên là lan",
+        "d": "Phú Hào",
+        "dapan": "Tên là lan"
+    },
+    {
+        
+        "questions": "Nhà Lan có 3 anh em, người anh đầu tên là Nhất Hào, người thứ hai tên là Nhị Hào. Hỏi người thứ 3 tên gì?",
+        "a": "Điệp",
+        "b": "Tam hào",
+        "c": "Tên là lan",
+        "d": "Phú Hào",
+        "dapan": "Tên là lan"
+    },
+    {
+        
+        "questions": "1 cân bông và 1 cân sắt, cái nào nặng hơn?",
+        "a": "Cân bông nặng hơn",
+        "b": "Cân sắt nặng hơn",
+        "c": "Cả 2 bằng nhau",
+        "d": "Không biết",
+        "dapan": "Cả 2 bằng nhau"
+    },
+    {
+        
+        "questions": "Cái gì tay trái cầm được còn tay phải có muốn cầm cũng không được?",
+        "a": "Củi trỏ tay trái",
+        "b": "Củi trỏ tay phải",
+        "c": "Đầu gối chân trái",
+        "d": "Tóc",
+        "dapan": "Củi trỏ tay phải"
+    },
+    {
+        
+        "questions": " Có bao nhiêu chữ C trong câu sau đây: 'Cơm, canh, cháo gì tớ cũng thích ăn!'",
+        "a": "3",
+        "b": "2",
+        "c": "4",
+        "d": "1",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "Con số lớn nhất có duy nhất hai chữ số?",
+        "a": "9^9",
+        "b": "99",
+        "c": "10",
+        "d": "81",
+        "dapan": "9^9"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà không ai có thể trả lời “Vâng”?",
+        "a": "Mày thích chết không",
+        "b": "Mày thích gì?",
+        "c": "Mày cho tao vay 500k nhé!",
+        "d": "Mày chết rùi hả?",
+        "dapan": "Mày chết rùi hả?"
+    },
+    {
+        
+        "questions": " Trong 1 cuộc thi chạy, nếu bạn vượt qua người thứ 2 bạn sẽ đứng thứ mấy?",
+        "a": "2",
+        "b": "1",
+        "c": "3",
+        "d": "4",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Con đường dài nhất là đường nào?",
+        "a": "Đường Quốc lộ",
+        "b": "Đường đời",
+        "c": "Đường biên giới",
+        "d": "Đường Trường Sơn",
+        "dapan": "Đường đời"
+    },
+    {
+        
+        "questions": "Xe điện chạy với vận tốc 30km/h, gió thổi ngược lại với vận tốc 2m/s. Hỏi khói xe bay với vận tốc bao nhiêu?",
+        "a": "Xe điện không có khói",
+        "b": "25",
+        "c": "15",
+        "d": "10",
+        "dapan": "Xe điện không có khói"
+    },
+    {
+        
+        "questions": "Loài chó nào nhảy cao bằng toà nhà cao nhất thế giới?",
+        "a": "Tất cả các loài chó vì các tòa nhà không biết nhảy",
+        "b": "Không có loài nào!",
+        "c": "Chỉ có chú chó Pluto",
+        "d": "Chó mặt xệ",
+        "dapan": "Tất cả các loài chó vì các tòa nhà không biết nhảy"
+    },
+    {
+        
+        "questions": "Đố bạn khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?",
+        "a": "Vào góc hiểm",
+        "b": "Vào bóng",
+        "c": "Vào lưới",
+        "d": "Vào bên trái",
+        "dapan": "Vào bóng"
+    },
+    {
+        
+        "questions": "Trò gì càng chơi càng ra nước?",
+        "a": "Chơi tại bể bơi",
+        "b": "Chơi cờ",
+        "c": "Nghịch nước",
+        "d": "Chơi bài",
+        "dapan": "Chơi cờ"
+    },
+    {
+        
+        "questions": "Cái gì tay trái cầm được còn tay phải có muốn cầm cũng không được?",
+        "a": "Củi trỏ tay trái",
+        "b": "Củi trỏ tay phải",
+        "c": "Đầu gối chân trái",
+        "d": "Tóc",
+        "dapan": "Củi trỏ tay phải"
+    },
+    {
+        
+        "questions": "Bệnh gì bác sĩ bó tay?",
+        "a": "Bệnh ngu",
+        "b": "Gãy tay",
+        "c": "Bệnh dịch hạch",
+        "d": "Cái chết đen",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Con gì còn đau khổ hơn hươu cao cổ bị viêm họng?",
+        "a": "Con chó bị viêm xoang",
+        "b": "Con hổ bị sâu răng",
+        "c": "Con người bị trĩ",
+        "d": "Con rết bị đau chân",
+        "dapan": "Con rết bị đau chân"
+    },
+    {
+        
+        "questions": "Tại sao sư tử ăn thịt sống?",
+        "a": "Ăn nhanh không ôi mất",
+        "b": "Mùi vị ngon",
+        "c": "Nhiều dinh dưỡng",
+        "d": "Ứ ! Biết nấu",
+        "dapan": "Ứ ! Biết nấu"
+    },
+    {
+        
+        "questions": "Bạn hãy tưởng tượng bạn đang đi trên 1 con thuyền trên 1 dòng sông có rất nhiều cá ăn thịt đến giữa dòng bỗng thuyền của bạn bị thủng 1 lỗ rất to, sau vài phút nữa thuyền sẽ chìm và chắc chắn bạn sẽ là bữa ăn những con cá này. Bạn làm cách nào đơn giản nhất để thoát ra khỏi cái hoàn cảnh chết tiệt này?",
+        "a": "Gọi 113",
+        "b": "Gọi bố đến",
+        "c": "Cố gắng bơi thật nhanh",
+        "d": "Thôi, ngừng tưởng tượng đi",
+        "dapan": "Thôi, ngừng tưởng tượng đi"
+    },
+    {
+        
+        "questions": "1 cân bông và 1 cân sắt, cái nào nặng hơn?",
+        "a": "Cân bông nặng hơn",
+        "b": "Cân sắt nặng hơn",
+        "c": "Cả 2 bằng nhau",
+        "d": "Không biết",
+        "dapan": "Cả 2 bằng nhau"
+    },
+    {
+        
+        "questions": "Chúng ta là con..?",
+        "a": "Con bò",
+        "b": "Con người",
+        "c": "Con chó",
+        "d": "Con khỉ",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Cái gì bằng cái vung, vùng xuống ao, đào chẳng thấy, lấy chẳng được",
+        "a": "Cây cầu",
+        "b": "Cái vung",
+        "c": "Cái thuyền",
+        "d": "Bóng mặt trăng",
+        "dapan": "Bóng mặt trăng"
+    },
+    {
+        
+        "questions": "Loài chó nào nhảy cao bằng toà nhà cao nhất thế giới?",
+        "a": "Tất cả các loài chó vì các tòa nhà không biết nhảy",
+        "b": "Không có loài nào!",
+        "c": "Chỉ có chú chó Pluto",
+        "d": "Chó mặt xệ",
+        "dapan": "Tất cả các loài chó vì các tòa nhà không biết nhảy"
+    },
+    {
+        
+        "questions": "Bạn có thể kể ra ba ngày liên tiếp mà không có tên là thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật?",
+        "a": "Hôm qua, hôm nay , ngày mai",
+        "b": "Không kể được",
+        "c": "Thứ năm, thứ sáu, thứ 7",
+        "d": "Thứ 5, thứ 6, thứ 2",
+        "dapan": "Hôm qua, hôm nay , ngày mai"
+    },
+    {
+        
+        "questions": "Con gì đập thì sống, không đập thì chết",
+        "a": "Con tim",
+        "b": "Con đập",
+        "c": "Con ếch",
+        "d": "Con sông",
+        "dapan": "Con tim"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà không ai có thể trả lời “Vâng”?",
+        "a": "Mày thích chết không",
+        "b": "Mày thích gì?",
+        "c": "Mày cho tao vay 500k nhé!",
+        "d": "Mày chết rùi hả?",
+        "dapan": "Mày chết rùi hả?"
+    },
+    {
+        
+        "questions": "Bức tranh nàng Mônalisa, người đẹp này không có gì?",
+        "a": "Váy",
+        "b": "Tóc",
+        "c": "Chân mày",
+        "d": "Mắt",
+        "dapan": "Chân mày"
+    },
+    {
+        
+        "questions": "A gọi B bằng bác, B gọi C là ông nội, C kêu D là cậu, D kêu E là dì, E kêu F là chú, F gọi Z là con.Hỏi A gọi Z bằng gì ???",
+        "a": "Bằng bác",
+        "b": "Bằng chú",
+        "c": "Bằng cô",
+        "d": "Bằng miệng",
+        "dapan": "Bằng miệng"
+    },
+    {
+        
+        "questions": "30 chia 1/2, và cộng thêm 10, bằng bao nhiêu?",
+        "a": "60",
+        "b": "30",
+        "c": "25",
+        "d": "70",
+        "dapan": "70"
+    },
+    {
+        
+        "questions": "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày?",
+        "a": "4",
+        "b": "5",
+        "c": "12",
+        "d": "6",
+        "dapan": "12"
+    },
+    {
+        
+        "questions": "Cái gì bằng cái vung, vùng xuống ao, đào chẳng thấy, lấy chẳng được",
+        "a": "Cây cầu",
+        "b": "Cái vung",
+        "c": "Cái thuyền",
+        "d": "Bóng mặt trăng",
+        "dapan": "Bóng mặt trăng"
+    },
+    {
+        
+        "questions": "Nhà Lan có 3 anh em, người anh đầu tên là Nhất Hào, người thứ hai tên là Nhị Hào. Hỏi người thứ 3 tên gì?",
+        "a": "Điệp",
+        "b": "Tam hào",
+        "c": "Tên là lan",
+        "d": "Phú Hào",
+        "dapan": "Tên là lan"
+    },
+    {
+        
+        "questions": "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
+        "a": "Cây mía",
+        "b": "Bắp ngô",
+        "c": "Xúc xích",
+        "d": "Củ khoai",
+        "dapan": "Bắp ngô"
+    },
+    {
+        
+        "questions": "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+        "a": "Thẻ điện thoại",
+        "b": "Hộp quà",
+        "c": "Phong bì",
+        "d": "Quan tài",
+        "dapan": "Quan tài"
+    },
+    {
+        
+        "questions": "Bức tranh nàng Mônalisa, người đẹp này không có gì?",
+        "a": "Váy",
+        "b": "Tóc",
+        "c": "Chân mày",
+        "d": "Mắt",
+        "dapan": "Chân mày"
+    },
+    {
+        
+        "questions": "Bệnh gì mà bác sỹ phải bó tay?",
+        "a": "Đau mắt đỏ",
+        "b": "Đau bụng",
+        "c": "Cúm",
+        "d": "Gãy tay",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Bệnh gì bác sĩ bó tay?",
+        "a": "Bệnh ngu",
+        "b": "Gãy tay",
+        "c": "Bệnh dịch hạch",
+        "d": "Cái chết đen",
+        "dapan": "Gãy tay"
+    },
+    {
+        
+        "questions": "Một ly thuỷ tinh đựng đầy nước, làm thế nào để lấy nước dưới đáy ly mà không đổ nước ra ngoài ?",
+        "a": "Ống hút",
+        "b": "Dùng miệng",
+        "c": "Gọi chủ quán",
+        "d": "Dùng thìa",
+        "dapan": "Ống hút"
+    },
+    {
+        
+        "questions": "A gọi B bằng bác, B gọi C là ông nội, C kêu D là cậu, D kêu E là dì, E kêu F là chú, F gọi Z là con.Hỏi A gọi Z bằng gì ???",
+        "a": "Bằng bác",
+        "b": "Bằng chú",
+        "c": "Bằng cô",
+        "d": "Bằng miệng",
+        "dapan": "Bằng miệng"
+    },
+    {
+        
+        "questions": "Núi nào mà bị chặt ra từng khúc?",
+        "a": "Himalaya",
+        "b": "Hoàng Liên Sơn",
+        "c": "Ngũ hành sơn",
+        "d": "Thái Sơn",
+        "dapan": "Thái Sơn"
+    },
+    {
+        
+        "questions": "Con đường dài nhất là đường nào?",
+        "a": "Đường Quốc lộ",
+        "b": "Đường đời",
+        "c": "Đường biên giới",
+        "d": "Đường Trường Sơn",
+        "dapan": "Đường đời"
+    },
+    {
+        
+        "questions": "Tại sao có những người đi taxi nhưng sao họ lại không trả tiền?",
+        "a": "Vì họ là tài xế",
+        "b": "Vì họ là người mù",
+        "c": "Người này là giám đốc",
+        "d": "Họ là con ông cháu cha",
+        "dapan": "Vì họ là tài xế"
+    },
+    {
+        
+        "questions": "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+        "a": "4",
+        "b": "1",
+        "c": "5",
+        "d": "2",
+        "dapan": "2"
+    },
+    {
+        
+        "questions": "Bố mẹ có sáu người con trai, mỗi người con trai có một em gái. Hỏi gia đình đó có bao nhiêu người?",
+        "a": "9",
+        "b": "10",
+        "c": "15",
+        "d": "12",
+        "dapan": "9"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": "Tháng nào ngắn nhất trong năm?",
+        "a": "Tháng Năm",
+        "b": "Tháng 12",
+        "c": "Tháng Ba",
+        "d": "Tháng Sáu",
+        "dapan": "Tháng Ba"
+    },
+    {
+        
+        "questions": "Một ly thuỷ tinh đựng đầy nước, làm thế nào để lấy nước dưới đáy ly mà không đổ nước ra ngoài ?",
+        "a": "Ống hút",
+        "b": "Dùng miệng",
+        "c": "Gọi chủ quán",
+        "d": "Dùng thìa",
+        "dapan": "Ống hút"
+    },
+    {
+        
+        "questions": "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+        "a": "Thẻ điện thoại",
+        "b": "Hộp quà",
+        "c": "Phong bì",
+        "d": "Quan tài",
+        "dapan": "Quan tài"
+    },
+    {
+        
+        "questions": "1 cân bông và 1 cân sắt, cái nào nặng hơn?",
+        "a": "Cân bông nặng hơn",
+        "b": "Cân sắt nặng hơn",
+        "c": "Cả 2 bằng nhau",
+        "d": "Không biết",
+        "dapan": "Cả 2 bằng nhau"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": "Tại sao sư tử ăn thịt sống?",
+        "a": "Ăn nhanh không ôi mất",
+        "b": "Mùi vị ngon",
+        "c": "Nhiều dinh dưỡng",
+        "d": "Ứ ! Biết nấu",
+        "dapan": "Ứ ! Biết nấu"
+    },
+    {
+        
+        "questions": "Cái gì tay trái cầm được còn tay phải có muốn cầm cũng không được?",
+        "a": "Củi trỏ tay trái",
+        "b": "Củi trỏ tay phải",
+        "c": "Đầu gối chân trái",
+        "d": "Tóc",
+        "dapan": "Củi trỏ tay phải"
+    },
+    {
+        
+        "questions": "Lịch nào dài nhất?",
+        "a": "Lịch treo tường",
+        "b": "Lịch bàn",
+        "c": "Lịch Vạn Niên",
+        "d": "Lịch sử",
+        "dapan": "Lịch sử"
+    },
+    {
+        
+        "questions": "Đố bạn chuột nào đi bằng 2 chân?",
+        "a": "Chuột cống",
+        "b": "Chuột trù",
+        "c": "Mickey",
+        "d": "Chuột đồng",
+        "dapan": "Mickey"
+    },
+    {
+        
+        "questions": "Đố bạn khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?",
+        "a": "Vào góc hiểm",
+        "b": "Vào bóng",
+        "c": "Vào lưới",
+        "d": "Vào bên trái",
+        "dapan": "Vào bóng"
+    },
+    {
+        
+        "questions": "Tôi có cả một hàm răng nhưng không có cái miệng nào cả? Tôi là ai?",
+        "a": "Cái thang",
+        "b": "Cái dao",
+        "c": "Cái hang",
+        "d": "Cái cưa",
+        "dapan": "Cái cưa"
+    },
+    {
+        
+        "questions": "Bạn hãy tưởng tượng bạn đang đi trên 1 con thuyền trên 1 dòng sông có rất nhiều cá ăn thịt đến giữa dòng bỗng thuyền của bạn bị thủng 1 lỗ rất to, sau vài phút nữa thuyền sẽ chìm và chắc chắn bạn sẽ là bữa ăn những con cá này. Bạn làm cách nào đơn giản nhất để thoát ra khỏi cái hoàn cảnh chết tiệt này?",
+        "a": "Gọi 113",
+        "b": "Gọi bố đến",
+        "c": "Cố gắng bơi thật nhanh",
+        "d": "Thôi, ngừng tưởng tượng đi",
+        "dapan": "Thôi, ngừng tưởng tượng đi"
+    },
+    {
+        
+        "questions": "Ai có nhà di động đầu tiên?",
+        "a": "Nước anh",
+        "b": "Nước mỹ",
+        "c": "Rùa và ốc sên",
+        "d": "Nước pháp",
+        "dapan": "Rùa và ốc sên"
+    },
+    {
+        
+        "questions": "Một phụ nữ đang mua đồ tại tiệm ngũ kim. Người bán hàng chào giá: “Giá của một là mười hai xu, giá của bốn mươi tư là hai mươi tư xu, và giá của một trăm mười bốn là ba mươi sáu xu.”! Cô ta muốn mua gì vậy ta?",
+        "a": "Mua bánh mỳ",
+        "b": "Mua sổ sổ",
+        "c": "Mua số điện thoại",
+        "d": "Mua số nhà",
+        "dapan": "Mua số nhà"
+    },
+    {
+        
+        "questions": "A gọi B bằng bác, B gọi C là ông nội, C kêu D là cậu, D kêu E là dì, E kêu F là chú, F gọi Z là con.Hỏi A gọi Z bằng gì ???",
+        "a": "Bằng bác",
+        "b": "Bằng chú",
+        "c": "Bằng cô",
+        "d": "Bằng miệng",
+        "dapan": "Bằng miệng"
+    },
+    {
+        
+        "questions": "Một phụ nữ đang mua đồ tại tiệm ngũ kim. Người bán hàng chào giá: “Giá của một là mười hai xu, giá của bốn mươi tư là hai mươi tư xu, và giá của một trăm mười bốn là ba mươi sáu xu.”! Cô ta muốn mua gì vậy ta?",
+        "a": "Mua bánh mỳ",
+        "b": "Mua sổ sổ",
+        "c": "Mua số điện thoại",
+        "d": "Mua số nhà",
+        "dapan": "Mua số nhà"
+    },
+    {
+        
+        "questions": "Nếu bạn nhìn thấy con chim đang đậu trên nhánh cây, làm sao để lấy nhánh cây mà không làm động con chim?",
+        "a": "Bắn chết con chim",
+        "b": "Lấy nhánh cây khác",
+        "c": "Đợi con chim bay đi",
+        "d": "Đuổi con chim đi",
+        "dapan": "Đợi con chim bay đi"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": " Sở thú bị cháy, con gì chạy ra đầu tiên?",
+        "a": "Con voi",
+        "b": "Con hổ",
+        "c": "Con khỉ",
+        "d": "Con người",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Có hai bình rộng miệng đựng đầy nước. Làm sao để cho tất cả nước vào trong một cái chậu mà vẫn biết nước nào của bình nào(không được cho cả bình hay bất kỳ dụng cụ đựng nước nào vào chậu) ?",
+        "a": "Thêm phẩm nhuộm",
+        "b": "Ngăn đôi cái chậu",
+        "c": "Cho đông thành đá",
+        "d": "Nhờ người giúp đỡ",
+        "dapan": "Cho đông thành đá"
+    },
+    {
+        
+        "questions": "Nhà Lan có 3 anh em, người anh đầu tên là Nhất Hào, người thứ hai tên là Nhị Hào. Hỏi người thứ 3 tên gì?",
+        "a": "Điệp",
+        "b": "Tam hào",
+        "c": "Tên là lan",
+        "d": "Phú Hào",
+        "dapan": "Tên là lan"
+    },
+    {
+        
+        "questions": "Ai có nhà di động đầu tiên?",
+        "a": "Nước anh",
+        "b": "Nước mỹ",
+        "c": "Rùa và ốc sên",
+        "d": "Nước pháp",
+        "dapan": "Rùa và ốc sên"
+    },
+    {
+        
+        "questions": "Chúng ta là con..?",
+        "a": "Con bò",
+        "b": "Con người",
+        "c": "Con chó",
+        "d": "Con khỉ",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": "Trò gì càng chơi càng ra nước?",
+        "a": "Chơi tại bể bơi",
+        "b": "Chơi cờ",
+        "c": "Nghịch nước",
+        "d": "Chơi bài",
+        "dapan": "Chơi cờ"
+    },
+    {
+        
+        "questions": "Cái gì có kích thước bằng con voi nhưng chẳng nặng gram nào cả?",
+        "a": "Mẹ con voi",
+        "b": "Bố con voi",
+        "c": "Bóng con voi",
+        "d": "Con voi",
+        "dapan": "Bóng con voi"
+    },
+    {
+        
+        "questions": "Loài chó nào nhảy cao bằng toà nhà cao nhất thế giới?",
+        "a": "Tất cả các loài chó vì các tòa nhà không biết nhảy",
+        "b": "Không có loài nào!",
+        "c": "Chỉ có chú chó Pluto",
+        "d": "Chó mặt xệ",
+        "dapan": "Tất cả các loài chó vì các tòa nhà không biết nhảy"
+    },
+    {
+        
+        "questions": "Loài chó nào nhảy cao bằng toà nhà cao nhất thế giới?",
+        "a": "Tất cả các loài chó vì các tòa nhà không biết nhảy",
+        "b": "Không có loài nào!",
+        "c": "Chỉ có chú chó Pluto",
+        "d": "Chó mặt xệ",
+        "dapan": "Tất cả các loài chó vì các tòa nhà không biết nhảy"
+    },
+    {
+        
+        "questions": "Tại sao sư tử ăn thịt sống?",
+        "a": "Ăn nhanh không ôi mất",
+        "b": "Mùi vị ngon",
+        "c": "Nhiều dinh dưỡng",
+        "d": "Ứ ! Biết nấu",
+        "dapan": "Ứ ! Biết nấu"
+    },
+    {
+        
+        "questions": "Hoa gì biết ăn, biết nói, biết hát …?",
+        "a": "Hoa hậu",
+        "b": "hoa loa kèn",
+        "c": "Hoa súng",
+        "d": "Hoa nhài",
+        "dapan": "Hoa hậu"
+    },
+    {
+        
+        "questions": "Nhà Lan có 3 anh em, người anh đầu tên là Nhất Hào, người thứ hai tên là Nhị Hào. Hỏi người thứ 3 tên gì?",
+        "a": "Điệp",
+        "b": "Tam hào",
+        "c": "Tên là lan",
+        "d": "Phú Hào",
+        "dapan": "Tên là lan"
+    },
+    {
+        
+        "questions": "Ai có nhà di động đầu tiên?",
+        "a": "Nước anh",
+        "b": "Nước mỹ",
+        "c": "Rùa và ốc sên",
+        "d": "Nước pháp",
+        "dapan": "Rùa và ốc sên"
+    },
+    {
+        
+        "questions": "30 chia 1/2, và cộng thêm 10, bằng bao nhiêu?",
+        "a": "60",
+        "b": "30",
+        "c": "25",
+        "d": "70",
+        "dapan": "70"
+    },
+    {
+        
+        "questions": "trong các loại con, con chó, con lợn, con mèo,... Thì chúng ta là con gì?",
+        "a": "Con người",
+        "b": "Con heo",
+        "c": "Con chó",
+        "d": "Con mèo",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Một phụ nữ đang mua đồ tại tiệm ngũ kim. Người bán hàng chào giá: “Giá của một là mười hai xu, giá của bốn mươi tư là hai mươi tư xu, và giá của một trăm mười bốn là ba mươi sáu xu.”! Cô ta muốn mua gì vậy ta?",
+        "a": "Mua bánh mỳ",
+        "b": "Mua sổ sổ",
+        "c": "Mua số điện thoại",
+        "d": "Mua số nhà",
+        "dapan": "Mua số nhà"
+    },
+    {
+        
+        "questions": "Nhà Lan có 3 anh em, người anh đầu tên là Nhất Hào, người thứ hai tên là Nhị Hào. Hỏi người thứ 3 tên gì?",
+        "a": "Điệp",
+        "b": "Tam hào",
+        "c": "Tên là lan",
+        "d": "Phú Hào",
+        "dapan": "Tên là lan"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": "Đố bạn có bao nhiêu chữ C trong câu sau đây: “ Cơm, canh, cháo gì tớ cũng thích ăn!”",
+        "a": "4",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "Con số lớn nhất có duy nhất hai chữ số?",
+        "a": "9^9",
+        "b": "99",
+        "c": "10",
+        "d": "81",
+        "dapan": "9^9"
+    },
+    {
+        
+        "questions": "Tôi có cả một hàm răng nhưng không có cái miệng nào cả? Tôi là ai?",
+        "a": "Cái thang",
+        "b": "Cái dao",
+        "c": "Cái hang",
+        "d": "Cái cưa",
+        "dapan": "Cái cưa"
+    },
+    {
+        
+        "questions": "Có 2 con mèo Vàng và con mèo Đen , con mèo Vàng bỏ con mèo Đen đi với con mèo Nâu, 13 năm sau con mèo Vàng về với con mèo Đen hỏi nó nói gì trước tiên",
+        "a": "Meo meo",
+        "b": "Mèo đen nó chết rồi",
+        "c": "Dạo này khỏe không",
+        "d": "Vẫn còn sống à",
+        "dapan": "Meo meo"
+    },
+    {
+        
+        "questions": "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+        "a": "Thẻ điện thoại",
+        "b": "Hộp quà",
+        "c": "Phong bì",
+        "d": "Quan tài",
+        "dapan": "Quan tài"
+    },
+    {
+        
+        "questions": "Nếu bạn nhìn thấy con chim đang đậu trên nhánh cây, làm sao để lấy nhánh cây mà không làm động con chim?",
+        "a": "Bắn chết con chim",
+        "b": "Lấy nhánh cây khác",
+        "c": "Đợi con chim bay đi",
+        "d": "Đuổi con chim đi",
+        "dapan": "Đợi con chim bay đi"
+    },
+    {
+        
+        "questions": " Sở thú bị cháy, con gì chạy ra đầu tiên?",
+        "a": "Con voi",
+        "b": "Con hổ",
+        "c": "Con khỉ",
+        "d": "Con người",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày?",
+        "a": "4",
+        "b": "5",
+        "c": "12",
+        "d": "6",
+        "dapan": "12"
+    },
+    {
+        
+        "questions": "Quần rộng nhất là quần gì?",
+        "a": "Quần soóc",
+        "b": "Quần đùi",
+        "c": "Quần đảo",
+        "d": "Quần thụng",
+        "dapan": "Quần đảo"
+    },
+    {
+        
+        "questions": "Trò gì càng chơi càng ra nước?",
+        "a": "Chơi tại bể bơi",
+        "b": "Chơi cờ",
+        "c": "Nghịch nước",
+        "d": "Chơi bài",
+        "dapan": "Chơi cờ"
+    },
+    {
+        
+        "questions": "Quần rộng nhất là quần gì?",
+        "a": "Quần soóc",
+        "b": "Quần đùi",
+        "c": "Quần đảo",
+        "d": "Quần thụng",
+        "dapan": "Quần đảo"
+    },
+    {
+        
+        "questions": "Bố mẹ có sáu người con trai, mỗi người con trai có một em gái. Hỏi gia đình đó có bao nhiêu người?",
+        "a": "9",
+        "b": "10",
+        "c": "15",
+        "d": "12",
+        "dapan": "9"
+    },
+    {
+        
+        "questions": "Có cổ nhưng không có miệng là gì?",
+        "a": "Cái áo",
+        "b": "Cái bút",
+        "c": "Cái quần",
+        "d": "Cái khẩu trang",
+        "dapan": "Cái áo"
+    },
+    {
+        
+        "questions": "Xe điện chạy với vận tốc 30km/h, gió thổi ngược lại với vận tốc 2m/s. Hỏi khói xe bay với vận tốc bao nhiêu?",
+        "a": "Xe điện không có khói",
+        "b": "25",
+        "c": "15",
+        "d": "10",
+        "dapan": "Xe điện không có khói"
+    },
+    {
+        
+        "questions": "Bạn có thể kể ra ba ngày liên tiếp mà không có tên là thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy, chủ nhật?",
+        "a": "Hôm qua, hôm nay , ngày mai",
+        "b": "Không kể được",
+        "c": "Thứ năm, thứ sáu, thứ 7",
+        "d": "Thứ 5, thứ 6, thứ 2",
+        "dapan": "Hôm qua, hôm nay , ngày mai"
+    },
+    {
+        
+        "questions": " Cái gì tay phải cầm được còn tay trái cầm không được?",
+        "a": "Cái kéo",
+        "b": "Cái bút",
+        "c": "Đôi đũa",
+        "d": "Tay trái",
+        "dapan": "Tay trái"
+    },
+    {
+        
+        "questions": "Núi nào mà bị chặt ra từng khúc?",
+        "a": "Himalaya",
+        "b": "Hoàng Liên Sơn",
+        "c": "Ngũ hành sơn",
+        "d": "Thái Sơn",
+        "dapan": "Thái Sơn"
+    },
+    {
+        
+        "questions": "Một ly thuỷ tinh đựng đầy nước, làm thế nào để lấy nước dưới đáy ly mà không đổ nước ra ngoài ?",
+        "a": "Ống hút",
+        "b": "Dùng miệng",
+        "c": "Gọi chủ quán",
+        "d": "Dùng thìa",
+        "dapan": "Ống hút"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà bạn phải trả lời “có”?",
+        "a": "Sếp hỏi bạn có muốn tăng lương không?",
+        "b": "Đánh vần từ Có",
+        "c": "Tối nay đi chơi không?",
+        "d": "Đi chơi không?",
+        "dapan": "Đánh vần từ Có"
+    },
+    {
+        
+        "questions": "Một phụ nữ đang mua đồ tại tiệm ngũ kim. Người bán hàng chào giá: “Giá của một là mười hai xu, giá của bốn mươi tư là hai mươi tư xu, và giá của một trăm mười bốn là ba mươi sáu xu.”! Cô ta muốn mua gì vậy ta?",
+        "a": "Mua bánh mỳ",
+        "b": "Mua sổ sổ",
+        "c": "Mua số điện thoại",
+        "d": "Mua số nhà",
+        "dapan": "Mua số nhà"
+    },
+    {
+        
+        "questions": "1 cân bông và 1 cân sắt, cái nào nặng hơn?",
+        "a": "Cân bông nặng hơn",
+        "b": "Cân sắt nặng hơn",
+        "c": "Cả 2 bằng nhau",
+        "d": "Không biết",
+        "dapan": "Cả 2 bằng nhau"
+    },
+    {
+        
+        "questions": "30 chia 1/2, và cộng thêm 10, bằng bao nhiêu?",
+        "a": "60",
+        "b": "30",
+        "c": "25",
+        "d": "70",
+        "dapan": "70"
+    },
+    {
+        
+        "questions": "Con đường dài nhất là đường nào?",
+        "a": "Đường Quốc lộ",
+        "b": "Đường đời",
+        "c": "Đường biên giới",
+        "d": "Đường Trường Sơn",
+        "dapan": "Đường đời"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": "Loài chó nào nhảy cao bằng toà nhà cao nhất thế giới?",
+        "a": "Tất cả các loài chó vì các tòa nhà không biết nhảy",
+        "b": "Không có loài nào!",
+        "c": "Chỉ có chú chó Pluto",
+        "d": "Chó mặt xệ",
+        "dapan": "Tất cả các loài chó vì các tòa nhà không biết nhảy"
+    },
+    {
+        
+        "questions": "Xe điện chạy với vận tốc 30km/h, gió thổi ngược lại với vận tốc 2m/s. Hỏi khói xe bay với vận tốc bao nhiêu?",
+        "a": "Xe điện không có khói",
+        "b": "25",
+        "c": "15",
+        "d": "10",
+        "dapan": "Xe điện không có khói"
+    },
+    {
+        
+        "questions": "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày?",
+        "a": "4",
+        "b": "5",
+        "c": "12",
+        "d": "6",
+        "dapan": "12"
+    },
+    {
+        
+        "questions": "Con gì còn đau khổ hơn hươu cao cổ bị viêm họng?",
+        "a": "Con chó bị viêm xoang",
+        "b": "Con hổ bị sâu răng",
+        "c": "Con người bị trĩ",
+        "d": "Con rết bị đau chân",
+        "dapan": "Con rết bị đau chân"
+    },
+    {
+        
+        "questions": "Núi nào mà bị chặt ra từng khúc?",
+        "a": "Himalaya",
+        "b": "Hoàng Liên Sơn",
+        "c": "Ngũ hành sơn",
+        "d": "Thái Sơn",
+        "dapan": "Thái Sơn"
+    },
+    {
+        
+        "questions": "Núi nào mà bị chặt ra từng khúc?",
+        "a": "Himalaya",
+        "b": "Hoàng Liên Sơn",
+        "c": "Ngũ hành sơn",
+        "d": "Thái Sơn",
+        "dapan": "Thái Sơn"
+    },
+    {
+        
+        "questions": "trong các loại con, con chó, con lợn, con mèo,... Thì chúng ta là con gì?",
+        "a": "Con người",
+        "b": "Con heo",
+        "c": "Con chó",
+        "d": "Con mèo",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Ai có nhà di động đầu tiên?",
+        "a": "Nước anh",
+        "b": "Nước mỹ",
+        "c": "Rùa và ốc sên",
+        "d": "Nước pháp",
+        "dapan": "Rùa và ốc sên"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": "Toà nhà lớn nhất thế giới?",
+        "a": "Nhà trắng",
+        "b": "Toàn nhà CMC",
+        "c": "Nhà nước",
+        "d": "Nhà thờ",
+        "dapan": "Nhà nước"
+    },
+    {
+        
+        "questions": "Có 1 người không may bị té xuống hồ sâu, quần áo đều ướt đẫm hết nhưng không thấy tóc ướt tí nào. Hỏi vì sao?",
+        "a": "Người này không có tóc",
+        "b": "Người này là ma",
+        "c": "Người này đội mũ",
+        "d": "Người này là Fish Man",
+        "dapan": "Người này không có tóc"
+    },
+    {
+        
+        "questions": "Cái gì bạn không mượn mà trả?",
+        "a": "Lời cảm ơn",
+        "b": "Tiền",
+        "c": "Đồ ăn",
+        "d": "Áo khoác",
+        "dapan": "Lời cảm ơn"
+    },
+    {
+        
+        "questions": "Con gì còn đau khổ hơn hươu cao cổ bị viêm họng?",
+        "a": "Con chó bị viêm xoang",
+        "b": "Con hổ bị sâu răng",
+        "c": "Con người bị trĩ",
+        "d": "Con rết bị đau chân",
+        "dapan": "Con rết bị đau chân"
+    },
+    {
+        
+        "questions": "Có ông bố người da đen, mẹ người da trắng. Họ vừa mới sinh ra 1 em bé. Hỏi em bé đó có hàm răng màu gì?",
+        "a": "Răng vàng",
+        "b": "Tất nhiên là răng trắng",
+        "c": "Bé chưa mọc răng",
+        "d": "Răng trắng sữa",
+        "dapan": "Bé chưa mọc răng"
+    },
+    {
+        
+        "questions": "trong các loại con, con chó, con lợn, con mèo,... Thì chúng ta là con gì?",
+        "a": "Con người",
+        "b": "Con heo",
+        "c": "Con chó",
+        "d": "Con mèo",
+        "dapan": "Con người"
+    },
+    {
+        
+        "questions": "Có 2 con mèo Vàng và con mèo Đen , con mèo Vàng bỏ con mèo Đen đi với con mèo Nâu, 13 năm sau con mèo Vàng về với con mèo Đen hỏi nó nói gì trước tiên",
+        "a": "Meo meo",
+        "b": "Mèo đen nó chết rồi",
+        "c": "Dạo này khỏe không",
+        "d": "Vẫn còn sống à",
+        "dapan": "Meo meo"
+    },
+    {
+        
+        "questions": "Bạn hãy tưởng tượng bạn đang đi trên 1 con thuyền trên 1 dòng sông có rất nhiều cá ăn thịt đến giữa dòng bỗng thuyền của bạn bị thủng 1 lỗ rất to, sau vài phút nữa thuyền sẽ chìm và chắc chắn bạn sẽ là bữa ăn những con cá này. Bạn làm cách nào đơn giản nhất để thoát ra khỏi cái hoàn cảnh chết tiệt này?",
+        "a": "Gọi 113",
+        "b": "Gọi bố đến",
+        "c": "Cố gắng bơi thật nhanh",
+        "d": "Thôi, ngừng tưởng tượng đi",
+        "dapan": "Thôi, ngừng tưởng tượng đi"
+    },
+    {
+        
+        "questions": "Xe điện chạy với vận tốc 30km/h, gió thổi ngược lại với vận tốc 2m/s. Hỏi khói xe bay với vận tốc bao nhiêu?",
+        "a": "Xe điện không có khói",
+        "b": "25",
+        "c": "15",
+        "d": "10",
+        "dapan": "Xe điện không có khói"
+    },
+    {
+        
+        "questions": "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày?",
+        "a": "4",
+        "b": "5",
+        "c": "12",
+        "d": "6",
+        "dapan": "12"
+    },
+    {
+        
+        "questions": "Quần rộng nhất là quần gì?",
+        "a": "Quần soóc",
+        "b": "Quần đùi",
+        "c": "Quần đảo",
+        "d": "Quần thụng",
+        "dapan": "Quần đảo"
+    },
+    {
+        
+        "questions": "Hoa gì biết ăn, biết nói, biết hát …?",
+        "a": "Hoa hậu",
+        "b": "hoa loa kèn",
+        "c": "Hoa súng",
+        "d": "Hoa nhài",
+        "dapan": "Hoa hậu"
+    },
+    {
+        
+        "questions": "Quần rộng nhất là quần gì?",
+        "a": "Quần soóc",
+        "b": "Quần đùi",
+        "c": "Quần đảo",
+        "d": "Quần thụng",
+        "dapan": "Quần đảo"
+    },
+    {
+        
+        "questions": "Một phụ nữ đang mua đồ tại tiệm ngũ kim. Người bán hàng chào giá: “Giá của một là mười hai xu, giá của bốn mươi tư là hai mươi tư xu, và giá của một trăm mười bốn là ba mươi sáu xu.”! Cô ta muốn mua gì vậy ta?",
+        "a": "Mua bánh mỳ",
+        "b": "Mua sổ sổ",
+        "c": "Mua số điện thoại",
+        "d": "Mua số nhà",
+        "dapan": "Mua số nhà"
+    },
+    {
+        
+        "questions": "Có 2 con mèo Vàng và con mèo Đen , con mèo Vàng bỏ con mèo Đen đi với con mèo Nâu, 13 năm sau con mèo Vàng về với con mèo Đen hỏi nó nói gì trước tiên",
+        "a": "Meo meo",
+        "b": "Mèo đen nó chết rồi",
+        "c": "Dạo này khỏe không",
+        "d": "Vẫn còn sống à",
+        "dapan": "Meo meo"
+    },
+    {
+        
+        "questions": "Có cổ nhưng không có miệng là gì?",
+        "a": "Cái áo",
+        "b": "Cái bút",
+        "c": "Cái quần",
+        "d": "Cái khẩu trang",
+        "dapan": "Cái áo"
+    },
+    {
+        
+        "questions": "Đố bạn có bao nhiêu chữ C trong câu sau đây: “ Cơm, canh, cháo gì tớ cũng thích ăn!”",
+        "a": "4",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "dapan": "1"
+    },
+    {
+        
+        "questions": "Câu hỏi nào mà bạn phải trả lời “có”?",
+        "a": "Sếp hỏi bạn có muốn tăng lương không?",
+        "b": "Đánh vần từ Có",
+        "c": "Tối nay đi chơi không?",
+        "d": "Đi chơi không?",
+        "dapan": "Đánh vần từ Có"
+    },
+    {
+        
+        "questions": "Núi nào mà bị chặt ra từng khúc?",
+        "a": "Himalaya",
+        "b": "Hoàng Liên Sơn",
+        "c": "Ngũ hành sơn",
+        "d": "Thái Sơn",
+        "dapan": "Thái Sơn"
+    },
+    {
+        
+        "questions": "Lịch nào dài nhất?",
+        "a": "Lịch treo tường",
+        "b": "Lịch bàn",
+        "c": "Lịch Vạn Niên",
+        "d": "Lịch sử",
+        "dapan": "Lịch sử"
+    },
+    {
+        
+        "questions": "Có hai bình rộng miệng đựng đầy nước. Làm sao để cho tất cả nước vào trong một cái chậu mà vẫn biết nước nào của bình nào(không được cho cả bình hay bất kỳ dụng cụ đựng nước nào vào chậu) ?",
+        "a": "Thêm phẩm nhuộm",
+        "b": "Ngăn đôi cái chậu",
+        "c": "Cho đông thành đá",
+        "d": "Nhờ người giúp đỡ",
+        "dapan": "Cho đông thành đá"
+    },
+    {
+        
+        "questions": "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+        "a": "Thẻ điện thoại",
+        "b": "Hộp quà",
+        "c": "Phong bì",
+        "d": "Quan tài",
+        "dapan": "Quan tài"
+    },
+    {
+        
+        "questions": "Đố bạn khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?",
+        "a": "Vào góc hiểm",
+        "b": "Vào bóng",
+        "c": "Vào lưới",
+        "d": "Vào bên trái",
+        "dapan": "Vào bóng"
+    },
+    {
+        
+        "questions": "Lịch nào dài nhất?",
+        "a": "Lịch treo tường",
+        "b": "Lịch bàn",
+        "c": "Lịch Vạn Niên",
+        "d": "Lịch sử",
+        "dapan": "Lịch sử"
+    },
+    {
+        
+        "questions": "Một ly thuỷ tinh đựng đầy nước, làm thế nào để lấy nước dưới đáy ly mà không đổ nước ra ngoài ?",
+        "a": "Ống hút",
+        "b": "Dùng miệng",
+        "c": "Gọi chủ quán",
+        "d": "Dùng thìa",
+        "dapan": "Ống hút"
+    },
+    {
+        
+        "questions": "Một phụ nữ đang mua đồ tại tiệm ngũ kim. Người bán hàng chào giá: “Giá của một là mười hai xu, giá của bốn mươi tư là hai mươi tư xu, và giá của một trăm mười bốn là ba mươi sáu xu.”! Cô ta muốn mua gì vậy ta?",
+        "a": "Mua bánh mỳ",
+        "b": "Mua sổ sổ",
+        "c": "Mua số điện thoại",
+        "d": "Mua số nhà",
+        "dapan": "Mua số nhà"
+    },
+    {
+        
+        "questions": "Bức tranh nàng Mônalisa, người đẹp này không có gì?",
+        "a": "Váy",
+        "b": "Tóc",
+        "c": "Chân mày",
+        "d": "Mắt",
+        "dapan": "Chân mày"
+    },
+    {
+        
+        "questions": "30 chia 1/2, và cộng thêm 10, bằng bao nhiêu?",
+        "a": "60",
+        "b": "30",
+        "c": "25",
+        "d": "70",
+        "dapan": "70"
+    },
+    {
+        
+        "questions": "Đố bạn khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?",
+        "a": "Vào góc hiểm",
+        "b": "Vào bóng",
+        "c": "Vào lưới",
+        "d": "Vào bên trái",
+        "dapan": "Vào bóng"
+    },
+    {
+        
+        "questions": "Đố bạn vịt nào đi bằng 2 chân?",
+        "a": "Vịt donald",
+        "b": "Vịt nào chẳng đi bằng hai chân",
+        "c": "Vịt trời",
+        "d": "Vịt cái",
+        "dapan": "Vịt nào chẳng đi bằng hai chân"
+    },
+    {
+        
+        "questions": "Bệnh gì bác sĩ bó tay?",
+        "a": "Bệnh ngu",
+        "b": "Gãy tay",
+        "c": "Bệnh dịch hạch",
+        "d": "Cái chết đen",
+        "dapan": "Gãy tay"
+    }
+]

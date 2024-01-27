@@ -1,0 +1,114 @@
+/*
+* Copyright © 2022, Dương Công Nam
+* ...
+* Contacts:
+  + Facebook: https://www.facebook.com/basil2k4/, https://www.facebook.com/CongNam205
+  + Gmail: kmno4888@gmail.com
+* - Src Này Được Làm Trong Quá Trình Mình Học Code Nên Hơi Non Nhaa._.
+* - Create Date 27/09/2022 -
+*/
+
+
+'use strict';
+const
+log = console.log,
+express = require('express'),
+fse = require('fs'),
+app = express(),
+json = express.json(),
+urlEnc = express.urlencoded({
+    extended: true
+}),
+port = process.env.PORT = 1205,
+pub = __dirname+'/txt',
+inf = __dirname+'/info.json',
+home = __dirname+'/home.html';
+
+if (!fse.existsSync(pub)) fse.mkdirSync(pub);
+if (!fse.existsSync(inf)) fse.writeFileSync(inf, '[]');
+
+inter();
+
+app.use(json),
+app.use(urlEnc),
+app.get('', (req, res) => res.sendFile(home)),
+app.post('/create', create),
+app.get('/raw/:code_id', get),
+app.post('/raw/:code_id', get),
+app.use((req, res) => res.redirect('https://www.facebook.com/basil2k4/')),
+app.listen(port, err => !!err?log(err): log('Máy chủ đã bắt đầu lắng nghe...'));
+
+function randomCode(length) {
+    var
+    char = 'c4WVaHfPlU2S-3NhFZtA8iqjBeyTbGvK6QwEkMpDJIzru571LgdCOYnRomXs+x',
+    code = '';
+
+    while (code.length != length) code += char[Math.random()*char.length<<0];
+    return code;
+};
+
+function inter() {
+    setInterval(() => {
+        const
+        data = JSON.parse(fse.readFileSync(inf, 'utf-8')),
+        fill = data.filter(i => (i.t_end_id <= Date.now() && i.t_end_id != false)),
+        fill_ = data.filter(i => !fill.find(j => j.code == i.code));
+        if (fill.length != 0) {
+            for (const i of fill) fse.unlinkSync(`${pub}/${i.code}.txt`);
+            fse.writeFileSync(inf, JSON.stringify(fill_, 0, 4));
+        };
+    }, 100);
+};
+
+function create(req, res) {
+    var
+    body = req.body,
+    info = JSON.parse(fse.readFileSync(inf)),
+    code = 0,
+    end,
+    lengthCode = 5,
+    countCode = 0;
+
+    do {
+        code = randomCode(countCode > code.length?lengthCode += 1: lengthCode);
+        ++countCode;
+    } while (info.some(el => el.code == code));
+
+    if (!!body.t_end_id) {
+        var
+        input = body.t_end_id.split(''),
+        now = Date.now(),
+        pop = input.pop().toLowerCase(),
+        time = input.join('');
+
+        if (isFinite(time)) {
+            const add = pop == 'm'?time*1000*60: pop == 'h'?time*1000*60*60: pop == 'd'?time*1000*60*60*24: isFinite(pop)?(''+time+pop)*1000: false;
+            if (!add) end = false; else end = now+(parseInt(add));
+        } else end = false;
+    } else end = false;
+
+    info.push({
+        code, pw_id: body.pw_id || false, t_end_id: end
+    });
+    fse.writeFileSync(inf, JSON.stringify(info, 0, 4)),
+    fse.writeFileSync(`${pub}/${code}.txt`, body.data, 'utf-8');
+
+    const
+    urlRaw = `https://ghichu.nguyenlienmanh.com/raw/${code}`;
+    if (!!body.next) res.redirect(urlRaw); else res.send(urlRaw);
+};
+
+function get(req, res) {
+    const
+    p = req.params,
+    b = req.body,
+    data = JSON.parse(fse.readFileSync(inf)),
+    info = data.find(el => el.code == p.code_id),
+    _0 = '<title>Ghi Chú 💜 - 404</title><h1>Pages - 404</h1><p>raw không tồn tại, hãy liên hệ <a href="https://www.facebook.com/basil2k4/">facebook</a> tôi nếu bạn cho rằng đây là lỗi bên server</p><meta name="viewport" content="width=device-width, initial-scale=1.0" />',
+    _1 = `<title>Ghi Chú 💜</title> <style type="text/css" media="all">body {background: #CCCCCC;}button {color: white;background: #1E90FF;border: 1.5px solid blue;}</style><form method="post" action="/raw/${p.code_id}"><input type="password" name="pw_id" value="" placeholder="Điền mật khẩu!" /><button type="submit">OK</button></form><meta name="viewport" content="width=device-width, initial-scale=1.0" />`,
+    _2 = `<script type="text/javascript" charset="utf-8">alert('Mật Khẩu Chưa Chính Xác!')</script>`;
+
+    if (!info) return res.status(404).send(_0);
+    if (info.pw_id != false && !b.pw_id) return res.send(_1); else if (info.pw_id != false && b.pw_id != info.pw_id) return res.status(401).send(_2+_1);
+    res.sendFile(`${pub}/${p.code_id}.txt`)
+};

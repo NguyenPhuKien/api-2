@@ -1,17 +1,9 @@
 [
   {
     "ID": 0,
-    "ask": "ok",
+    "ask": "xin chào",
     "ans": [
-      "dạ simsimi chào anh/chị",
-      "text",
-      "text",
-      "text",
-      "text",
-      "text",
-      "text",
-      "text",
-      "text"
+      "dạ simsimi chào anh/chị"
     ]
   },
   {
@@ -58249,21 +58241,6 @@
       "chào bạn",
       "chào bạn",
       "chào củ c"
-    ]
-  },
-  {
-    "id": 8316,
-    "ask": "vangbanlanhat",
-    "ans": [
-      "text"
-    ]
-  },
-  {
-    "id": 8317,
-    "ask": "vangbanlanhat1",
-    "ans": [
-      "text",
-      "text"
     ]
   }
 ]

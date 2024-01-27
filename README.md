@@ -19,7 +19,7 @@ axios.get(`https://Docs-API.rosie-04.repl.co/apikey?type=register&name=${name}`)
 
 //Tạo API KEY PREMIUM
 var name = 'D-Jukie';
-axios.get(`https://Docs-API.rosie-04.repl.co/apikey?type=register&name=${name}&apikey=DismeAPI_2022`)
+axios.get(`https://Docs-API.rosie-04.repl.co/apikey?type=register&name=${name}&apikey=JRT_Rosie`)
     .then(function (response) {
         console.log(response.apikey)
     })

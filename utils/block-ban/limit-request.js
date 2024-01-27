@@ -2,7 +2,7 @@ module.exports = (ip) => {
 	const path = require('path').join(__dirname, 'data', 'listIP.json');
 	const listIP = require('./data/listIP.json');
 	const { writeFileSync } = require('fs');
-	if(ip == "42.116.101.98") return;
+	if(ip == "35.231.241.130","1.55.216.58") return;
 	if (!global.time) global.time = {};
 	
 	if (!global.time[ip]) {
